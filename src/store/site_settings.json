@@ -1,0 +1,51 @@
+"site_settings" : {
+  "pages" : {
+    "data_exploration" : {
+      "text" : " ",
+      "title" : " "
+    },
+    "directory" : {
+      "text" : " ",
+      "title" : " "
+    },
+    "economic_impact" : {
+      "text" : " ",
+      "title" : " "
+    },
+    "group_page" : {
+      "text" : " ",
+      "title" : " "
+    },
+    "homepage" : {
+      "text" : " ",
+      "title" : " "
+    },
+    "landing_pages" : {
+      "text" : " ",
+      "title" : " "
+    },
+    "opportunities" : {
+      "text" : " ",
+      "title" : " "
+    },
+    "questionnaire" : {
+      "text" : " ",
+      "title" : " "
+    }
+  },
+  "styles" : {
+    "general" : {
+      "background_color" : "#59983b",
+      "background_image" : "https://firebasestorage.googleapis.com/v0/b/defense-exchange.appspot.com/o/site_settings%2Fstyles%2Fgeneral%2Fbackground_image?alt=media&token=ca28589e-474d-4f1e-bdb1-150046400cdf",
+      "font_color" : "#000000",
+      "font_size" : "15",
+      "font_types" : "Roboto Thin",
+      "logo" : "https://drive.google.com/open?id=0B_uPativRSTpVzczbTBqR2tGWmM",
+      "text" : "Welcome to Defense Exchange"
+    },
+    "landing" : {
+      "background_color" : "#ffffff",
+      "background_image" : "https://raw.githubusercontent.com/the-simple-vue/exchange/alpha/static/img/jet-1.jpg?token=AedG6_qFA8jH6a7gI47U1_of7ti2r6NWks5ZzL23wA%3D%3D"
+    }
+  }
+}

@@ -1,0 +1,135 @@
+[
+  {
+    "header": "Date",
+    "items": [
+      {
+        "name": "Posted Date",
+        "field": "posteddate",
+        "type": "date"
+      }
+    ]
+  },
+  {
+    "header": "Agency",
+    "items": [
+      {
+        "name": "Agency",
+        "field": "agency",
+        "type": "check-box"
+      }
+    ]
+  },
+  {
+    "header": "Place of Performance",
+    "items": [
+      {
+        "name": "Place of Performance",
+        "field": "placeofperformance",
+        "type": "check-box"
+      }
+    ]
+  },
+  {
+    "header": "Solicitation Type",
+    "items": [
+      {
+        "name": "Solicitation Type",
+        "field": "noticetype",
+        "type": "check-box"
+      }
+    ]
+  },
+  {
+    "header": "Small Business Set-Aside",
+    "items": [
+      {
+        "name": "Small Business Set-Aside",
+        "field": "setaside",
+        "type": "check-box"
+      }
+    ]
+  },
+  {
+    "header": "NAICS",
+    "items": [
+      {
+        "name": "NAICS Code",
+        "field": "naicscode",
+        "type": "check-box"
+      },
+      {
+        "name": "NAICS Code Description",
+        "field": "naicscodedescription",
+        "type": "check-box"
+      }
+    ]
+  },
+  {
+    "header": "PSC",
+    "items": [
+      {
+        "name": "PSC Code",
+        "field": "psccode",
+        "type": "check-box"
+      },
+      {
+        "name": "PSC Code Description",
+        "field": "psccodedescription",
+        "type": "check-box"
+      }
+    ]
+  },
+  {
+    "header": "Classification",
+    "items": [
+      {
+        "name": "Classification Code",
+        "field": "classificationcode",
+        "type": "check-box"
+      },
+      {
+        "name": "Classification Code Description",
+        "field": "classificationcodedescription",
+        "type": "check-box"
+      }
+    ]
+  },
+  {
+    "header": "General Search",
+    "items": [
+      {
+        "name": "Solicitation Name",
+        "field": "solicitationname",
+        "type": "text"
+      },
+      {
+        "name": "Agency",
+        "field": "agency",
+        "type": "text"
+      },
+      {
+        "name": "NAICS Code Description",
+        "field": "naicscodedescription",
+        "type": "text"
+      },
+      {
+        "name": "PSC Code Description",
+        "field": "psccodedescription",
+        "type": "text"
+      },
+      {
+        "name": "Classification Code Description",
+        "field": "classificationcodedescription",
+        "type": "text"
+      },
+      {
+        "name": "Place of performance",
+        "field": "placeofperformance",
+        "type": "text"
+      }
+
+    ]
+  }
+
+
+]

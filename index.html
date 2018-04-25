@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Defense Exchange</title>
+    <link rel="icon" type="image/png" id="fav" sizes="32x32" href="">
+    <link rel="icon" type="image/png" id="fav1" sizes="16x16" href="">
+    <!--[if IE]><link rel="shortcut icon" href="/static/img/icons/favicon.ico"><![endif]-->
+    <!-- Add to home screen for Android and modern mobile browsers -->
+    <link rel="manifest" href="<%= htmlWebpackPlugin.files.publicPath %>static/manifest.json">
+    <meta name="theme-color" content="#4DBA87">
+
+    <!-- Add to home screen for Safari on iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="exchange">
+    <link rel="apple-touch-icon" href="<%= htmlWebpackPlugin.files.publicPath %>static/img/icons/apple-touch-icon-152x152.png">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:100|Material+Icons' rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <!-- Add to home screen for Windows -->
+    <meta name="msapplication-TileImage" content="<%= htmlWebpackPlugin.files.publicPath %>static/img/icons/msapplication-icon-144x144.png">
+    <meta name="msapplication-TileColor" content="#000000">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <% for (var chunk of webpack.chunks) {
+        for (var file of chunk.files) {
+          if (file.match(/\.(js|css)$/)) { %>
+    <link rel="<%= chunk.initial?'preload': 'prefetch' %>" href="<%= htmlWebpackPlugin.files.publicPath + file %>" as="<%= file.match(/\.css$/) ? 'style': 'script' %>"><% }}} %>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.0.2/howler.min.js"></script>
+	 <script type="text/javascript"
+		src="https://maps.google.com/maps/api/js?key=AIzaSyBCkHJdW4ChFLJ8cqJghc-LlhVU_FAl5G0"></script>
+  </head>
+  <body>
+    <noscript>
+      This is your fallback content in case JavaScript fails to load.
+    </noscript>
+    <div id="app" class="application--dark"></div>
+    <!-- <script src="/static/js/jquery.min.js"></script> -->
+    <script type="text/javascript">
+      var $original;
+      if (typeof jQuery !== 'undefined') {
+        $original = jQuery.noConflict(true);
+        $ = $original;
+        jQuery = $original;
+      }
+    </script>
+    <script type="text/javascript">
+      var oModal = "";
+      var $applozic = jQuery.noConflict(true);
+      if (typeof $original !== 'undefined') {
+        $ = $original;
+        jQuery = $original;
+        if (typeof $.fn.modal === 'function') {
+          oModal = $.fn.modal.noConflict();
+        }
+      } else {
+        $ = $applozic;
+        jQuery = $applozic;
+        if (typeof $applozic.fn.modal === 'function') {
+          oModal = $applozic.fn.modal.noConflict();
+        }
+      }
+    </script>
+    <script src="/static/js/mck-ringtone-service.js"></script>
+    <script src="/static/js/draggable_background.js"></script>
+    <script src="/static/js/twilio-video.js"></script>
+    <script src="/static/js/videocall.js"></script>
+    <script src="/static/js/grabzit.js"></script>
+    <script src="/static/js/applozic.plugins.min.js"></script>
+    <script src="/static/js/applozic.widget.min.js"></script>
+    <script src="/static/js/applozic.emojis.min.js"></script>
+    <script src="/static/js/applozic.socket.min.js"></script>
+    <script src="/static/js/locationpicker.jquery.min.js"></script>
+    <script src="/static/js/applozic.aes.js"></script>
+    <script src="/static/js/applozic.common.js"></script>
+    <!-- <script src="/static/js/applozic.sidebox.js"></script> -->
+    <script src="/static/js/applozic.fullview.js"></script>
+    <script src="/static/js/recorder.js"></script>
+    <script src="/static/js/Fr.voice.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/2.4.0/jszip.min.js"></script>
+
+    <script src="/static/js/app.js"></script>
+    <!-- <script type="text/javascript">
+      (function (d, m) {
+        var s, h;
+        s = document.createElement("script");
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://apps.applozic.com/sidebox.app";
+        h = document.getElementsByTagName('head')[0];
+        h.appendChild(s);
+        window.applozic = m;
+        m.init = function (t) {
+          m._globals = t;
+        }
+      })(document, window.applozic || {});
+
+    </script> -->
+
+    <!-- Todo: only include in production -->
+    <%= htmlWebpackPlugin.options.serviceWorkerLoader %>
+    <!-- built files will be auto injected -->
+    <script>
+      function doIt() {
+        let e = document.getElementById('traffic_percent')
+        if (e)
+          e.innerHTML = '50%';
+      }
+      doIt();
+      (function() {
+        let e = document.getElementById('traffic_percent')
+        if (e)
+          e.innerHTML = '50%';
+      })
+    </script>
+  </body>
+</html>

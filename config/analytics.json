@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "defense-exchange",
+  "private_key_id": "71746a9415b5ddc3e4e060185f5866c58cc999b7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDF4YxfMwtuyXfN\nWEPB+EZK+MnKILKm9rgmAkOl36+pIilX7QqPkgER21YZdc1IiyjLWev1850scOF6\nIurcQbiZ+0AyOYkBr60JsC4EnYqzAQaDMx3MDoKCxt1CQN80MSWL686ytVLfZaTf\nt8i0DRv+PZDo3TwxIfaNJgoUfT56lntJVqV5YDTlB9Gs4IxpSv/AU5i6ItnxVoVo\nC1mkvQgT2O13/VLs7DPITZH6YgBORR+d9DOA4hGICjSFTObLG9j7yoo9Jkz2gc3x\ntrXeTiXgPyYeC1I4LdQW2q6F1Qz8znMN07J9pJoA2P/T9CRRzVT4hpZpB8YvvV31\nk/hNtEmTAgMBAAECggEAUCXdVbfWkx5d/FmaRCfbzMT88nYQ9khq6NY08SvrOb2g\n8kCL7P/NmB53PqO0rIPU15yJ0ppEGHp2ESKwbtrdutyFsXIVWI3/r7NgyDTJN1yc\ndyqOkJZ17SM//fRJk5muZAB0PXTs5pgEUirdy3Od2Xm1RmRJW3suohf8sDTUSBER\nogugqNmTp18uCqmUq3gt0/yGOIdx03pezJZvHhGqlLjk3WQwAEMzcIWbKfkYDHcg\nR/cWH65jRskRiakTJ0pa6y7gIJDA9rgzh8VGz9M/sB5LsN745Qj42ZDYwzef8Bvq\nzjlFJrFYf0jio6X3DZH2SebI1kLtr/3TFkzp8W7rgQKBgQDu/6g9JKrlviaR+67f\nkt/11lznwUE9sRNgLnwp3tX/DUrCZoPgDL6JTvaI1HvGSlz5ugkPNvHB2ctKSxcT\npzCIe3olg0PTY+wXQiaLkRTUcBIbWIVpVUyBBqecome6Smn/AVOcqPRY5l7/6qaj\nOAeE2P796RcLv5SOibJvsdMzEwKBgQDT9Rvi5iZeLs3eoTtTZZ3MSnNF2VLtEyjM\ntgAzMlu0TXMxT2O564hPRE0mDkOGNCetOybEHBDotAYs0/E3xN21lhtnw7zC00MO\nRQuF71PanQ4ojleiZZgI3E6cSV84xCYTWGKFsazhwAjYXq+X5PTJTRy4rVjwYPl7\nDE6gU07fgQKBgQC38XyC0p3VhKwa3yKQYHKOuxV2KX8VBBxtgll9wEvjqU9In64P\n2r8q3uNQHHnG+6TjbxNZ6mfXUtDrtS9lqN/pq18vT//7yoQCwp73/AmUF01YTqEf\nmM7w3zZRj41WC7/YzCSWBlNJuMSVIvxt0sm2rWxT7/oUyLaFneT/olVykQKBgEvX\nVoUXyP7GTI+urWWn5JCmyxxhKNT/mAe3z9aB3GJlnCQ2vf5Wks2aKOjHDc5FdzT7\nB2IAkORTFiqQI63K2XISJfg5B5/GrCW8+uSPwDdnHxvP4veO1pnFCrPNZS8QsHcX\nlxkzfCLC7edN6hK1sAkfeHl0PXC1ok8vFisz4/MBAoGBAIQlJ2sR77cNX39klDMv\nl3dHc0+ka6dfg/q8hPyH7t4x3ozHZhOjmS8C0CyI77hODrd/lDBvD577zpidVOAp\nlSzjG5DzdmUUtW0wvgHEkQ05SXTXzQ35t6GpelCEn6F1xJI/cdL38nI8gtBNAYEe\nUMVSZQeU7C7qag0rW0cVgW7O\n-----END PRIVATE KEY-----\n",
+  "client_email": "exchange-analytics-api@defense-exchange.iam.gserviceaccount.com",
+  "client_id": "104078340217008923653",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/exchange-analytics-api%40defense-exchange.iam.gserviceaccount.com"
+}

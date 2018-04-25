@@ -1,0 +1,5815 @@
+[
+  {
+    "naicscode": 11,
+    "naicscodedescription": "Agriculture, Forestry, Fishing and Hunting"
+  },
+  {
+    "naicscode": 21,
+    "naicscodedescription": "Mining, Quarrying, and Oil and Gas Extraction"
+  },
+  {
+    "naicscode": 22,
+    "naicscodedescription": "Utilities"
+  },
+  {
+    "naicscode": 23,
+    "naicscodedescription": "Construction"
+  },
+  {
+    "naicscode": 42,
+    "naicscodedescription": "Wholesale Trade"
+  },
+  {
+    "naicscode": 51,
+    "naicscodedescription": "Information"
+  },
+  {
+    "naicscode": 52,
+    "naicscodedescription": "Finance and Insurance"
+  },
+  {
+    "naicscode": 53,
+    "naicscodedescription": "Real Estate and Rental and Leasing"
+  },
+  {
+    "naicscode": 54,
+    "naicscodedescription": "Professional, Scientific, and Technical Services"
+  },
+  {
+    "naicscode": 55,
+    "naicscodedescription": "Management of Companies and Enterprises"
+  },
+  {
+    "naicscode": 56,
+    "naicscodedescription":
+      "Administrative and Support and Waste Management and Remediation Services"
+  },
+  {
+    "naicscode": 61,
+    "naicscodedescription": "Educational Services"
+  },
+  {
+    "naicscode": 62,
+    "naicscodedescription": "Health Care and Social Assistance"
+  },
+  {
+    "naicscode": 71,
+    "naicscodedescription": "Arts, Entertainment, and Recreation"
+  },
+  {
+    "naicscode": 72,
+    "naicscodedescription": "Accommodation and Food Services"
+  },
+  {
+    "naicscode": 81,
+    "naicscodedescription": "Other Services (except Public Administration)"
+  },
+  {
+    "naicscode": 92,
+    "naicscodedescription": "Public Administration"
+  },
+  {
+    "naicscode": 1111,
+    "naicscodedescription": "Oilseed and Grain Farming"
+  },
+  {
+    "naicscode": 1112,
+    "naicscodedescription": "Vegetable and Melon Farming"
+  },
+  {
+    "naicscode": 1113,
+    "naicscodedescription": "Fruit and Tree Nut Farming"
+  },
+  {
+    "naicscode": 1114,
+    "naicscodedescription": "Greenhouse, Nursery, and Floriculture Production"
+  },
+  {
+    "naicscode": 1119,
+    "naicscodedescription": "Other Crop Farming"
+  },
+  {
+    "naicscode": 1121,
+    "naicscodedescription": "Cattle Ranching and Farming"
+  },
+  {
+    "naicscode": 1122,
+    "naicscodedescription": "Hog and Pig Farming"
+  },
+  {
+    "naicscode": 1123,
+    "naicscodedescription": "Poultry and Egg Production"
+  },
+  {
+    "naicscode": 1124,
+    "naicscodedescription": "Sheep and Goat Farming"
+  },
+  {
+    "naicscode": 1125,
+    "naicscodedescription": "Aquaculture"
+  },
+  {
+    "naicscode": 1129,
+    "naicscodedescription": "Other Animal Production"
+  },
+  {
+    "naicscode": 1131,
+    "naicscodedescription": "Timber Tract Operations"
+  },
+  {
+    "naicscode": 1132,
+    "naicscodedescription": "Forest Nurseries and Gathering of Forest Products"
+  },
+  {
+    "naicscode": 1133,
+    "naicscodedescription": "Logging"
+  },
+  {
+    "naicscode": 1141,
+    "naicscodedescription": "Fishing"
+  },
+  {
+    "naicscode": 1142,
+    "naicscodedescription": "Hunting and Trapping"
+  },
+  {
+    "naicscode": 1151,
+    "naicscodedescription": "Support Activities for Crop Production"
+  },
+  {
+    "naicscode": 1152,
+    "naicscodedescription": "Support Activities for Animal Production"
+  },
+  {
+    "naicscode": 1153,
+    "naicscodedescription": "Support Activities for Forestry"
+  },
+  {
+    "naicscode": 2111,
+    "naicscodedescription": "Oil and Gas Extraction"
+  },
+  {
+    "naicscode": 2121,
+    "naicscodedescription": "Coal Mining"
+  },
+  {
+    "naicscode": 2122,
+    "naicscodedescription": "Metal Ore Mining"
+  },
+  {
+    "naicscode": 2123,
+    "naicscodedescription": "Nonmetallic Mineral Mining and Quarrying"
+  },
+  {
+    "naicscode": 2131,
+    "naicscodedescription": "Support Activities for Mining"
+  },
+  {
+    "naicscode": 2211,
+    "naicscodedescription":
+      "Electric Power Generation, Transmission and Distribution"
+  },
+  {
+    "naicscode": 2212,
+    "naicscodedescription": "Natural Gas Distribution"
+  },
+  {
+    "naicscode": 2213,
+    "naicscodedescription": "Water, Sewage and Other Systems"
+  },
+  {
+    "naicscode": 2361,
+    "naicscodedescription": "Residential Building Construction"
+  },
+  {
+    "naicscode": 2362,
+    "naicscodedescription": "Nonresidential Building Construction"
+  },
+  {
+    "naicscode": 2371,
+    "naicscodedescription": "Utility System Construction"
+  },
+  {
+    "naicscode": 2372,
+    "naicscodedescription": "Land Subdivision"
+  },
+  {
+    "naicscode": 2373,
+    "naicscodedescription": "Highway, Street, and Bridge Construction"
+  },
+  {
+    "naicscode": 2379,
+    "naicscodedescription": "Other Heavy and Civil Engineering Construction"
+  },
+  {
+    "naicscode": 2381,
+    "naicscodedescription":
+      "Foundation, Structure, and Building Exterior Contractors"
+  },
+  {
+    "naicscode": 2382,
+    "naicscodedescription": "Building Equipment Contractors"
+  },
+  {
+    "naicscode": 2383,
+    "naicscodedescription": "Building Finishing Contractors"
+  },
+  {
+    "naicscode": 2389,
+    "naicscodedescription": "Other Specialty Trade Contractors"
+  },
+  {
+    "naicscode": 3111,
+    "naicscodedescription": "Animal Food Manufacturing"
+  },
+  {
+    "naicscode": 3112,
+    "naicscodedescription": "Grain and Oilseed Milling"
+  },
+  {
+    "naicscode": 3113,
+    "naicscodedescription": "Sugar and Confectionery Product Manufacturing"
+  },
+  {
+    "naicscode": 3114,
+    "naicscodedescription":
+      "Fruit and Vegetable Preserving and Specialty Food Manufacturing"
+  },
+  {
+    "naicscode": 3115,
+    "naicscodedescription": "Dairy Product Manufacturing"
+  },
+  {
+    "naicscode": 3116,
+    "naicscodedescription": "Animal Slaughtering and Processing"
+  },
+  {
+    "naicscode": 3117,
+    "naicscodedescription": "Seafood Product Preparation and Packaging"
+  },
+  {
+    "naicscode": 3118,
+    "naicscodedescription": "Bakeries and Tortilla Manufacturing"
+  },
+  {
+    "naicscode": 3119,
+    "naicscodedescription": "Other Food Manufacturing"
+  },
+  {
+    "naicscode": 3121,
+    "naicscodedescription": "Beverage Manufacturing"
+  },
+  {
+    "naicscode": 3122,
+    "naicscodedescription": "Tobacco Manufacturing"
+  },
+  {
+    "naicscode": 3131,
+    "naicscodedescription": "Fiber, Yarn, and Thread Mills"
+  },
+  {
+    "naicscode": 3132,
+    "naicscodedescription": "Fabric Mills"
+  },
+  {
+    "naicscode": 3133,
+    "naicscodedescription":
+      "Textile and Fabric Finishing and Fabric Coating Mills"
+  },
+  {
+    "naicscode": 3141,
+    "naicscodedescription": "Textile Furnishings Mills"
+  },
+  {
+    "naicscode": 3149,
+    "naicscodedescription": "Other Textile Product Mills"
+  },
+  {
+    "naicscode": 3151,
+    "naicscodedescription": "Apparel Knitting Mills"
+  },
+  {
+    "naicscode": 3152,
+    "naicscodedescription": "Cut and Sew Apparel Manufacturing"
+  },
+  {
+    "naicscode": 3159,
+    "naicscodedescription":
+      "Apparel Accessories and Other Apparel Manufacturing"
+  },
+  {
+    "naicscode": 3161,
+    "naicscodedescription": "Leather and Hide Tanning and Finishing"
+  },
+  {
+    "naicscode": 3162,
+    "naicscodedescription": "Footwear Manufacturing"
+  },
+  {
+    "naicscode": 3169,
+    "naicscodedescription": "Other Leather and Allied Product Manufacturing"
+  },
+  {
+    "naicscode": 3211,
+    "naicscodedescription": "Sawmills and Wood Preservation"
+  },
+  {
+    "naicscode": 3212,
+    "naicscodedescription":
+      "Veneer, Plywood, and Engineered Wood Product Manufacturing"
+  },
+  {
+    "naicscode": 3219,
+    "naicscodedescription": "Other Wood Product Manufacturing"
+  },
+  {
+    "naicscode": 3221,
+    "naicscodedescription": "Pulp, Paper, and Paperboard Mills"
+  },
+  {
+    "naicscode": 3222,
+    "naicscodedescription": "Converted Paper Product Manufacturing"
+  },
+  {
+    "naicscode": 3231,
+    "naicscodedescription": "Printing and Related Support Activities"
+  },
+  {
+    "naicscode": 3241,
+    "naicscodedescription": "Petroleum and Coal Products Manufacturing"
+  },
+  {
+    "naicscode": 3251,
+    "naicscodedescription": "Basic Chemical Manufacturing"
+  },
+  {
+    "naicscode": 3252,
+    "naicscodedescription":
+      "Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing"
+  },
+  {
+    "naicscode": 3253,
+    "naicscodedescription":
+      "Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing"
+  },
+  {
+    "naicscode": 3254,
+    "naicscodedescription": "Pharmaceutical and Medicine Manufacturing"
+  },
+  {
+    "naicscode": 3255,
+    "naicscodedescription": "Paint, Coating, and Adhesive Manufacturing"
+  },
+  {
+    "naicscode": 3256,
+    "naicscodedescription":
+      "Soap, Cleaning Compound, and Toilet Preparation Manufacturing"
+  },
+  {
+    "naicscode": 3259,
+    "naicscodedescription":
+      "Other Chemical Product and Preparation Manufacturing"
+  },
+  {
+    "naicscode": 3261,
+    "naicscodedescription": "Plastics Product Manufacturing"
+  },
+  {
+    "naicscode": 3262,
+    "naicscodedescription": "Rubber Product Manufacturing"
+  },
+  {
+    "naicscode": 3271,
+    "naicscodedescription": "Clay Product and Refractory Manufacturing"
+  },
+  {
+    "naicscode": 3272,
+    "naicscodedescription": "Glass and Glass Product Manufacturing"
+  },
+  {
+    "naicscode": 3273,
+    "naicscodedescription": "Cement and Concrete Product Manufacturing"
+  },
+  {
+    "naicscode": 3274,
+    "naicscodedescription": "Lime and Gypsum Product Manufacturing"
+  },
+  {
+    "naicscode": 3279,
+    "naicscodedescription": "Other Nonmetallic Mineral Product Manufacturing"
+  },
+  {
+    "naicscode": 3311,
+    "naicscodedescription": "Iron and Steel Mills and Ferroalloy Manufacturing"
+  },
+  {
+    "naicscode": 3312,
+    "naicscodedescription": "Steel Product Manufacturing from Purchased Steel"
+  },
+  {
+    "naicscode": 3313,
+    "naicscodedescription": "Alumina and Aluminum Production and Processing"
+  },
+  {
+    "naicscode": 3314,
+    "naicscodedescription":
+      "Nonferrous Metal (except Aluminum) Production and Processing"
+  },
+  {
+    "naicscode": 3315,
+    "naicscodedescription": "Foundries"
+  },
+  {
+    "naicscode": 3321,
+    "naicscodedescription": "Forging and Stamping"
+  },
+  {
+    "naicscode": 3322,
+    "naicscodedescription": "Cutlery and Handtool Manufacturing"
+  },
+  {
+    "naicscode": 3323,
+    "naicscodedescription": "Architectural and Structural Metals Manufacturing"
+  },
+  {
+    "naicscode": 3324,
+    "naicscodedescription": "Boiler, Tank, and Shipping Container Manufacturing"
+  },
+  {
+    "naicscode": 3325,
+    "naicscodedescription": "Hardware Manufacturing"
+  },
+  {
+    "naicscode": 3326,
+    "naicscodedescription": "Spring and Wire Product Manufacturing"
+  },
+  {
+    "naicscode": 3327,
+    "naicscodedescription":
+      "Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing"
+  },
+  {
+    "naicscode": 3328,
+    "naicscodedescription":
+      "Coating, Engraving, Heat Treating, and Allied Activities"
+  },
+  {
+    "naicscode": 3329,
+    "naicscodedescription": "Other Fabricated Metal Product Manufacturing"
+  },
+  {
+    "naicscode": 3331,
+    "naicscodedescription":
+      "Agriculture, Construction, and Mining Machinery Manufacturing"
+  },
+  {
+    "naicscode": 3332,
+    "naicscodedescription": "Industrial Machinery Manufacturing"
+  },
+  {
+    "naicscode": 3333,
+    "naicscodedescription":
+      "Commercial and Service Industry Machinery Manufacturing"
+  },
+  {
+    "naicscode": 3334,
+    "naicscodedescription":
+      "Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing"
+  },
+  {
+    "naicscode": 3335,
+    "naicscodedescription": "Metalworking Machinery Manufacturing"
+  },
+  {
+    "naicscode": 3336,
+    "naicscodedescription":
+      "Engine, Turbine, and Power Transmission Equipment Manufacturing"
+  },
+  {
+    "naicscode": 3339,
+    "naicscodedescription": "Other General Purpose Machinery Manufacturing"
+  },
+  {
+    "naicscode": 3341,
+    "naicscodedescription": "Computer and Peripheral Equipment Manufacturing"
+  },
+  {
+    "naicscode": 3342,
+    "naicscodedescription": "Communications Equipment Manufacturing"
+  },
+  {
+    "naicscode": 3343,
+    "naicscodedescription": "Audio and Video Equipment Manufacturing"
+  },
+  {
+    "naicscode": 3344,
+    "naicscodedescription":
+      "Semiconductor and Other Electronic Component Manufacturing"
+  },
+  {
+    "naicscode": 3345,
+    "naicscodedescription":
+      "Navigational, Measuring, Electromedical, and Control Instruments Manufacturing"
+  },
+  {
+    "naicscode": 3346,
+    "naicscodedescription":
+      "Manufacturing and Reproducing Magnetic and Optical Media"
+  },
+  {
+    "naicscode": 3351,
+    "naicscodedescription": "Electric Lighting Equipment Manufacturing"
+  },
+  {
+    "naicscode": 3352,
+    "naicscodedescription": "Household Appliance Manufacturing"
+  },
+  {
+    "naicscode": 3353,
+    "naicscodedescription": "Electrical Equipment Manufacturing"
+  },
+  {
+    "naicscode": 3359,
+    "naicscodedescription":
+      "Other Electrical Equipment and Component Manufacturing"
+  },
+  {
+    "naicscode": 3361,
+    "naicscodedescription": "Motor Vehicle Manufacturing"
+  },
+  {
+    "naicscode": 3362,
+    "naicscodedescription": "Motor Vehicle Body and Trailer Manufacturing"
+  },
+  {
+    "naicscode": 3363,
+    "naicscodedescription": "Motor Vehicle Parts Manufacturing"
+  },
+  {
+    "naicscode": 3364,
+    "naicscodedescription": "Aerospace Product and Parts Manufacturing"
+  },
+  {
+    "naicscode": 3365,
+    "naicscodedescription": "Railroad Rolling Stock Manufacturing"
+  },
+  {
+    "naicscode": 3366,
+    "naicscodedescription": "Ship and Boat Building"
+  },
+  {
+    "naicscode": 3369,
+    "naicscodedescription": "Other Transportation Equipment Manufacturing"
+  },
+  {
+    "naicscode": 3371,
+    "naicscodedescription":
+      "Household and Institutional Furniture and Kitchen Cabinet Manufacturing"
+  },
+  {
+    "naicscode": 3372,
+    "naicscodedescription":
+      "Office Furniture (including Fixtures) Manufacturing"
+  },
+  {
+    "naicscode": 3379,
+    "naicscodedescription": "Other Furniture Related Product Manufacturing"
+  },
+  {
+    "naicscode": 3391,
+    "naicscodedescription": "Medical Equipment and Supplies Manufacturing"
+  },
+  {
+    "naicscode": 3399,
+    "naicscodedescription": "Other Miscellaneous Manufacturing"
+  },
+  {
+    "naicscode": 4231,
+    "naicscodedescription":
+      "Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4232,
+    "naicscodedescription": "Furniture and Home Furnishing Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4233,
+    "naicscodedescription":
+      "Lumber and Other Construction Materials Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4234,
+    "naicscodedescription":
+      "Professional and Commercial Equipment and Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4235,
+    "naicscodedescription":
+      "Metal and Mineral (except Petroleum) Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4236,
+    "naicscodedescription":
+      "Household Appliances and Electrical and Electronic Goods Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4237,
+    "naicscodedescription":
+      "Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4238,
+    "naicscodedescription":
+      "Machinery, Equipment, and Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4239,
+    "naicscodedescription": "Miscellaneous Durable Goods Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4241,
+    "naicscodedescription": "Paper and Paper Product Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4242,
+    "naicscodedescription": "Drugs and Druggists' Sundries Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4243,
+    "naicscodedescription":
+      "Apparel, Piece Goods, and Notions Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4244,
+    "naicscodedescription": "Grocery and Related Product Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4245,
+    "naicscodedescription": "Farm Product Raw Material Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4246,
+    "naicscodedescription": "Chemical and Allied Products Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4247,
+    "naicscodedescription":
+      "Petroleum and Petroleum Products Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4248,
+    "naicscodedescription":
+      "Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4249,
+    "naicscodedescription":
+      "Miscellaneous Nondurable Goods Merchant Wholesalers"
+  },
+  {
+    "naicscode": 4251,
+    "naicscodedescription":
+      "Wholesale Electronic Markets and Agents and Brokers"
+  },
+  {
+    "naicscode": 4411,
+    "naicscodedescription": "Automobile Dealers"
+  },
+  {
+    "naicscode": 4412,
+    "naicscodedescription": "Other Motor Vehicle Dealers"
+  },
+  {
+    "naicscode": 4413,
+    "naicscodedescription": "Automotive Parts, Accessories, and Tire Stores"
+  },
+  {
+    "naicscode": 4421,
+    "naicscodedescription": "Furniture Stores"
+  },
+  {
+    "naicscode": 4422,
+    "naicscodedescription": "Home Furnishings Stores"
+  },
+  {
+    "naicscode": 4431,
+    "naicscodedescription": "Electronics and Appliance Stores"
+  },
+  {
+    "naicscode": 4441,
+    "naicscodedescription": "Building Material and Supplies Dealers"
+  },
+  {
+    "naicscode": 4442,
+    "naicscodedescription": "Lawn and Garden Equipment and Supplies Stores"
+  },
+  {
+    "naicscode": 4451,
+    "naicscodedescription": "Grocery Stores"
+  },
+  {
+    "naicscode": 4452,
+    "naicscodedescription": "Specialty Food Stores"
+  },
+  {
+    "naicscode": 4453,
+    "naicscodedescription": "Beer, Wine, and Liquor Stores"
+  },
+  {
+    "naicscode": 4461,
+    "naicscodedescription": "Health and Personal Care Stores"
+  },
+  {
+    "naicscode": 4471,
+    "naicscodedescription": "Gasoline Stations"
+  },
+  {
+    "naicscode": 4481,
+    "naicscodedescription": "Clothing Stores"
+  },
+  {
+    "naicscode": 4482,
+    "naicscodedescription": "Shoe Stores"
+  },
+  {
+    "naicscode": 4483,
+    "naicscodedescription": "Jewelry, Luggage, and Leather Goods Stores"
+  },
+  {
+    "naicscode": 4511,
+    "naicscodedescription":
+      "Sporting Goods, Hobby, and Musical Instrument Stores"
+  },
+  {
+    "naicscode": 4512,
+    "naicscodedescription": "Book Stores and News Dealers"
+  },
+  {
+    "naicscode": 4522,
+    "naicscodedescription": "Department Stores"
+  },
+  {
+    "naicscode": 4523,
+    "naicscodedescription":
+      "General Merchandise Stores, including Warehouse Clubs and Supercenters"
+  },
+  {
+    "naicscode": 4531,
+    "naicscodedescription": "Florists"
+  },
+  {
+    "naicscode": 4532,
+    "naicscodedescription": "Office Supplies, Stationery, and Gift Stores"
+  },
+  {
+    "naicscode": 4533,
+    "naicscodedescription": "Used Merchandise Stores"
+  },
+  {
+    "naicscode": 4539,
+    "naicscodedescription": "Other Miscellaneous Store Retailers"
+  },
+  {
+    "naicscode": 4541,
+    "naicscodedescription": "Electronic Shopping and Mail-Order Houses"
+  },
+  {
+    "naicscode": 4542,
+    "naicscodedescription": "Vending Machine Operators"
+  },
+  {
+    "naicscode": 4543,
+    "naicscodedescription": "Direct Selling Establishments"
+  },
+  {
+    "naicscode": 4811,
+    "naicscodedescription": "Scheduled Air Transportation"
+  },
+  {
+    "naicscode": 4812,
+    "naicscodedescription": "Nonscheduled Air Transportation"
+  },
+  {
+    "naicscode": 4821,
+    "naicscodedescription": "Rail Transportation"
+  },
+  {
+    "naicscode": 4831,
+    "naicscodedescription":
+      "Deep Sea, Coastal, and Great Lakes Water Transportation"
+  },
+  {
+    "naicscode": 4832,
+    "naicscodedescription": "Inland Water Transportation"
+  },
+  {
+    "naicscode": 4841,
+    "naicscodedescription": "General Freight Trucking"
+  },
+  {
+    "naicscode": 4842,
+    "naicscodedescription": "Specialized Freight Trucking"
+  },
+  {
+    "naicscode": 4851,
+    "naicscodedescription": "Urban Transit Systems"
+  },
+  {
+    "naicscode": 4852,
+    "naicscodedescription": "Interurban and Rural Bus Transportation"
+  },
+  {
+    "naicscode": 4853,
+    "naicscodedescription": "Taxi and Limousine Service"
+  },
+  {
+    "naicscode": 4854,
+    "naicscodedescription": "School and Employee Bus Transportation"
+  },
+  {
+    "naicscode": 4855,
+    "naicscodedescription": "Charter Bus Industry"
+  },
+  {
+    "naicscode": 4859,
+    "naicscodedescription": "Other Transit and Ground Passenger Transportation"
+  },
+  {
+    "naicscode": 4861,
+    "naicscodedescription": "Pipeline Transportation of Crude Oil"
+  },
+  {
+    "naicscode": 4862,
+    "naicscodedescription": "Pipeline Transportation of Natural Gas"
+  },
+  {
+    "naicscode": 4869,
+    "naicscodedescription": "Other Pipeline Transportation"
+  },
+  {
+    "naicscode": 4871,
+    "naicscodedescription": "Scenic and Sightseeing Transportation, Land"
+  },
+  {
+    "naicscode": 4872,
+    "naicscodedescription": "Scenic and Sightseeing Transportation, Water"
+  },
+  {
+    "naicscode": 4879,
+    "naicscodedescription": "Scenic and Sightseeing Transportation, Other"
+  },
+  {
+    "naicscode": 4881,
+    "naicscodedescription": "Support Activities for Air Transportation"
+  },
+  {
+    "naicscode": 4882,
+    "naicscodedescription": "Support Activities for Rail Transportation"
+  },
+  {
+    "naicscode": 4883,
+    "naicscodedescription": "Support Activities for Water Transportation"
+  },
+  {
+    "naicscode": 4884,
+    "naicscodedescription": "Support Activities for Road Transportation"
+  },
+  {
+    "naicscode": 4885,
+    "naicscodedescription": "Freight Transportation Arrangement"
+  },
+  {
+    "naicscode": 4889,
+    "naicscodedescription": "Other Support Activities for Transportation"
+  },
+  {
+    "naicscode": 4911,
+    "naicscodedescription": "Postal Service"
+  },
+  {
+    "naicscode": 4921,
+    "naicscodedescription": "Couriers and Express Delivery Services"
+  },
+  {
+    "naicscode": 4922,
+    "naicscodedescription": "Local Messengers and Local Delivery"
+  },
+  {
+    "naicscode": 4931,
+    "naicscodedescription": "Warehousing and Storage"
+  },
+  {
+    "naicscode": 5111,
+    "naicscodedescription":
+      "Newspaper, Periodical, Book, and Directory Publishers"
+  },
+  {
+    "naicscode": 5112,
+    "naicscodedescription": "Software Publishers"
+  },
+  {
+    "naicscode": 5121,
+    "naicscodedescription": "Motion Picture and Video Industries"
+  },
+  {
+    "naicscode": 5122,
+    "naicscodedescription": "Sound Recording Industries"
+  },
+  {
+    "naicscode": 5151,
+    "naicscodedescription": "Radio and Television Broadcasting"
+  },
+  {
+    "naicscode": 5152,
+    "naicscodedescription": "Cable and Other Subscription Programming"
+  },
+  {
+    "naicscode": 5173,
+    "naicscodedescription": "Wired and Wireless Telecommunications Carriers"
+  },
+  {
+    "naicscode": 5174,
+    "naicscodedescription": "Satellite Telecommunications"
+  },
+  {
+    "naicscode": 5179,
+    "naicscodedescription": "Other Telecommunications"
+  },
+  {
+    "naicscode": 5182,
+    "naicscodedescription": "Data Processing, Hosting, and Related Services"
+  },
+  {
+    "naicscode": 5191,
+    "naicscodedescription": "Other Information Services"
+  },
+  {
+    "naicscode": 5211,
+    "naicscodedescription": "Monetary Authorities-Central Bank"
+  },
+  {
+    "naicscode": 5221,
+    "naicscodedescription": "Depository Credit Intermediation"
+  },
+  {
+    "naicscode": 5222,
+    "naicscodedescription": "Nondepository Credit Intermediation"
+  },
+  {
+    "naicscode": 5223,
+    "naicscodedescription": "Activities Related to Credit Intermediation"
+  },
+  {
+    "naicscode": 5231,
+    "naicscodedescription":
+      "Securities and Commodity Contracts Intermediation and Brokerage"
+  },
+  {
+    "naicscode": 5232,
+    "naicscodedescription": "Securities and Commodity Exchanges"
+  },
+  {
+    "naicscode": 5239,
+    "naicscodedescription": "Other Financial Investment Activities"
+  },
+  {
+    "naicscode": 5241,
+    "naicscodedescription": "Insurance Carriers"
+  },
+  {
+    "naicscode": 5242,
+    "naicscodedescription":
+      "Agencies, Brokerages, and Other Insurance Related Activities"
+  },
+  {
+    "naicscode": 5251,
+    "naicscodedescription": "Insurance and Employee Benefit Funds"
+  },
+  {
+    "naicscode": 5259,
+    "naicscodedescription": "Other Investment Pools and Funds"
+  },
+  {
+    "naicscode": 5311,
+    "naicscodedescription": "Lessors of Real Estate"
+  },
+  {
+    "naicscode": 5312,
+    "naicscodedescription": "Offices of Real Estate Agents and Brokers"
+  },
+  {
+    "naicscode": 5313,
+    "naicscodedescription": "Activities Related to Real Estate"
+  },
+  {
+    "naicscode": 5321,
+    "naicscodedescription": "Automotive Equipment Rental and Leasing"
+  },
+  {
+    "naicscode": 5322,
+    "naicscodedescription": "Consumer Goods Rental"
+  },
+  {
+    "naicscode": 5323,
+    "naicscodedescription": "General Rental Centers"
+  },
+  {
+    "naicscode": 5324,
+    "naicscodedescription":
+      "Commercial and Industrial Machinery and Equipment Rental and Leasing"
+  },
+  {
+    "naicscode": 5331,
+    "naicscodedescription":
+      "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)"
+  },
+  {
+    "naicscode": 5411,
+    "naicscodedescription": "Legal Services"
+  },
+  {
+    "naicscode": 5412,
+    "naicscodedescription":
+      "Accounting, Tax Preparation, Bookkeeping, and Payroll Services"
+  },
+  {
+    "naicscode": 5413,
+    "naicscodedescription": "Architectural, Engineering, and Related Services"
+  },
+  {
+    "naicscode": 5414,
+    "naicscodedescription": "Specialized Design Services"
+  },
+  {
+    "naicscode": 5415,
+    "naicscodedescription": "Computer Systems Design and Related Services"
+  },
+  {
+    "naicscode": 5416,
+    "naicscodedescription":
+      "Management, Scientific, and Technical Consulting Services"
+  },
+  {
+    "naicscode": 5417,
+    "naicscodedescription": "Scientific Research and Development Services"
+  },
+  {
+    "naicscode": 5418,
+    "naicscodedescription":
+      "Advertising, Public Relations, and Related Services"
+  },
+  {
+    "naicscode": 5419,
+    "naicscodedescription":
+      "Other Professional, Scientific, and Technical Services"
+  },
+  {
+    "naicscode": 5511,
+    "naicscodedescription": "Management of Companies and Enterprises"
+  },
+  {
+    "naicscode": 5611,
+    "naicscodedescription": "Office Administrative Services"
+  },
+  {
+    "naicscode": 5612,
+    "naicscodedescription": "Facilities Support Services"
+  },
+  {
+    "naicscode": 5613,
+    "naicscodedescription": "Employment Services"
+  },
+  {
+    "naicscode": 5614,
+    "naicscodedescription": "Business Support Services"
+  },
+  {
+    "naicscode": 5615,
+    "naicscodedescription": "Travel Arrangement and Reservation Services"
+  },
+  {
+    "naicscode": 5616,
+    "naicscodedescription": "Investigation and Security Services"
+  },
+  {
+    "naicscode": 5617,
+    "naicscodedescription": "Services to Buildings and Dwellings"
+  },
+  {
+    "naicscode": 5619,
+    "naicscodedescription": "Other Support Services"
+  },
+  {
+    "naicscode": 5621,
+    "naicscodedescription": "Waste Collection"
+  },
+  {
+    "naicscode": 5622,
+    "naicscodedescription": "Waste Treatment and Disposal"
+  },
+  {
+    "naicscode": 5629,
+    "naicscodedescription": "Remediation and Other Waste Management Services"
+  },
+  {
+    "naicscode": 6111,
+    "naicscodedescription": "Elementary and Secondary Schools"
+  },
+  {
+    "naicscode": 6112,
+    "naicscodedescription": "Junior Colleges"
+  },
+  {
+    "naicscode": 6113,
+    "naicscodedescription": "Colleges, Universities, and Professional Schools"
+  },
+  {
+    "naicscode": 6114,
+    "naicscodedescription":
+      "Business Schools and Computer and Management Training"
+  },
+  {
+    "naicscode": 6115,
+    "naicscodedescription": "Technical and Trade Schools"
+  },
+  {
+    "naicscode": 6116,
+    "naicscodedescription": "Other Schools and Instruction"
+  },
+  {
+    "naicscode": 6117,
+    "naicscodedescription": "Educational Support Services"
+  },
+  {
+    "naicscode": 6211,
+    "naicscodedescription": "Offices of Physicians"
+  },
+  {
+    "naicscode": 6212,
+    "naicscodedescription": "Offices of Dentists"
+  },
+  {
+    "naicscode": 6213,
+    "naicscodedescription": "Offices of Other Health Practitioners"
+  },
+  {
+    "naicscode": 6214,
+    "naicscodedescription": "Outpatient Care Centers"
+  },
+  {
+    "naicscode": 6215,
+    "naicscodedescription": "Medical and Diagnostic Laboratories"
+  },
+  {
+    "naicscode": 6216,
+    "naicscodedescription": "Home Health Care Services"
+  },
+  {
+    "naicscode": 6219,
+    "naicscodedescription": "Other Ambulatory Health Care Services"
+  },
+  {
+    "naicscode": 6221,
+    "naicscodedescription": "General Medical and Surgical Hospitals"
+  },
+  {
+    "naicscode": 6222,
+    "naicscodedescription": "Psychiatric and Substance Abuse Hospitals"
+  },
+  {
+    "naicscode": 6223,
+    "naicscodedescription":
+      "Specialty (except Psychiatric and Substance Abuse) Hospitals"
+  },
+  {
+    "naicscode": 6231,
+    "naicscodedescription":
+      "Nursing Care Facilities (Skilled Nursing Facilities)"
+  },
+  {
+    "naicscode": 6232,
+    "naicscodedescription":
+      "Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities"
+  },
+  {
+    "naicscode": 6233,
+    "naicscodedescription":
+      "Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly"
+  },
+  {
+    "naicscode": 6239,
+    "naicscodedescription": "Other Residential Care Facilities"
+  },
+  {
+    "naicscode": 6241,
+    "naicscodedescription": "Individual and Family Services"
+  },
+  {
+    "naicscode": 6242,
+    "naicscodedescription":
+      "Community Food and Housing, and Emergency and Other Relief Services"
+  },
+  {
+    "naicscode": 6243,
+    "naicscodedescription": "Vocational Rehabilitation Services"
+  },
+  {
+    "naicscode": 6244,
+    "naicscodedescription": "Child Day Care Services"
+  },
+  {
+    "naicscode": 7111,
+    "naicscodedescription": "Performing Arts Companies"
+  },
+  {
+    "naicscode": 7112,
+    "naicscodedescription": "Spectator Sports"
+  },
+  {
+    "naicscode": 7113,
+    "naicscodedescription":
+      "Promoters of Performing Arts, Sports, and Similar Events"
+  },
+  {
+    "naicscode": 7114,
+    "naicscodedescription":
+      "Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"
+  },
+  {
+    "naicscode": 7115,
+    "naicscodedescription": "Independent Artists, Writers, and Performers"
+  },
+  {
+    "naicscode": 7121,
+    "naicscodedescription":
+      "Museums, Historical Sites, and Similar Institutions"
+  },
+  {
+    "naicscode": 7131,
+    "naicscodedescription": "Amusement Parks and Arcades"
+  },
+  {
+    "naicscode": 7132,
+    "naicscodedescription": "Gambling Industries"
+  },
+  {
+    "naicscode": 7139,
+    "naicscodedescription": "Other Amusement and Recreation Industries"
+  },
+  {
+    "naicscode": 7211,
+    "naicscodedescription": "Traveler Accommodation"
+  },
+  {
+    "naicscode": 7212,
+    "naicscodedescription":
+      "RV (Recreational Vehicle) Parks and Recreational Camps"
+  },
+  {
+    "naicscode": 7213,
+    "naicscodedescription":
+      "Rooming and Boarding Houses, Dormitories, and Workers' Camps"
+  },
+  {
+    "naicscode": 7223,
+    "naicscodedescription": "Special Food Services"
+  },
+  {
+    "naicscode": 7224,
+    "naicscodedescription": "Drinking Places (Alcoholic Beverages)"
+  },
+  {
+    "naicscode": 7225,
+    "naicscodedescription": "Restaurants and Other Eating Places"
+  },
+  {
+    "naicscode": 8111,
+    "naicscodedescription": "Automotive Repair and Maintenance"
+  },
+  {
+    "naicscode": 8112,
+    "naicscodedescription":
+      "Electronic and Precision Equipment Repair and Maintenance"
+  },
+  {
+    "naicscode": 8113,
+    "naicscodedescription":
+      "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+  },
+  {
+    "naicscode": 8114,
+    "naicscodedescription":
+      "Personal and Household Goods Repair and Maintenance"
+  },
+  {
+    "naicscode": 8121,
+    "naicscodedescription": "Personal Care Services"
+  },
+  {
+    "naicscode": 8122,
+    "naicscodedescription": "Death Care Services"
+  },
+  {
+    "naicscode": 8123,
+    "naicscodedescription": "Drycleaning and Laundry Services"
+  },
+  {
+    "naicscode": 8129,
+    "naicscodedescription": "Other Personal Services"
+  },
+  {
+    "naicscode": 8131,
+    "naicscodedescription": "Religious Organizations"
+  },
+  {
+    "naicscode": 8132,
+    "naicscodedescription": "Grantmaking and Giving Services"
+  },
+  {
+    "naicscode": 8133,
+    "naicscodedescription": "Social Advocacy Organizations"
+  },
+  {
+    "naicscode": 8134,
+    "naicscodedescription": "Civic and Social Organizations"
+  },
+  {
+    "naicscode": 8139,
+    "naicscodedescription":
+      "Business, Professional, Labor, Political, and Similar Organizations"
+  },
+  {
+    "naicscode": 8141,
+    "naicscodedescription": "Private Households"
+  },
+  {
+    "naicscode": 9211,
+    "naicscodedescription":
+      "Executive, Legislative, and Other General Government Suppor"
+  },
+  {
+    "naicscode": 9221,
+    "naicscodedescription": "Justice, Public Order, and Safety Activities"
+  },
+  {
+    "naicscode": 9231,
+    "naicscodedescription": "Administration of Human Resource Programs"
+  },
+  {
+    "naicscode": 9241,
+    "naicscodedescription": "Administration of Environmental Quality Programs"
+  },
+  {
+    "naicscode": 9251,
+    "naicscodedescription":
+      "Administration of Housing Programs, Urban Planning, and Community Developmen"
+  },
+  {
+    "naicscode": 9261,
+    "naicscodedescription": "Administration of Economic Programs"
+  },
+  {
+    "naicscode": 9271,
+    "naicscodedescription": "Space Research and Technology"
+  },
+  {
+    "naicscode": 9281,
+    "naicscodedescription": "National Security and International Affairs"
+  },
+  {
+    "naicscode": 111110,
+    "naicscodedescription": "Soybean Farming"
+  },
+  {
+    "naicscode": 111120,
+    "naicscodedescription": "Oilseed (except Soybean) Farming"
+  },
+  {
+    "naicscode": 111130,
+    "naicscodedescription": "Dry Pea and Bean Farming"
+  },
+  {
+    "naicscode": 111140,
+    "naicscodedescription": "Wheat Farming"
+  },
+  {
+    "naicscode": 111150,
+    "naicscodedescription": "Corn Farming"
+  },
+  {
+    "naicscode": 111160,
+    "naicscodedescription": "Rice Farming"
+  },
+  {
+    "naicscode": 111191,
+    "naicscodedescription": "Oilseed and Grain Combination Farming"
+  },
+  {
+    "naicscode": 111199,
+    "naicscodedescription": "All Other Grain Farming"
+  },
+  {
+    "naicscode": 111211,
+    "naicscodedescription": "Potato Farming"
+  },
+  {
+    "naicscode": 111219,
+    "naicscodedescription": "Other Vegetable (except Potato) and Melon Farming"
+  },
+  {
+    "naicscode": 111310,
+    "naicscodedescription": "Orange Groves"
+  },
+  {
+    "naicscode": 111320,
+    "naicscodedescription": "Citrus (except Orange) Groves"
+  },
+  {
+    "naicscode": 111331,
+    "naicscodedescription": "Apple Orchards"
+  },
+  {
+    "naicscode": 111332,
+    "naicscodedescription": "Grape Vineyards"
+  },
+  {
+    "naicscode": 111333,
+    "naicscodedescription": "Strawberry Farming"
+  },
+  {
+    "naicscode": 111334,
+    "naicscodedescription": "Berry (except Strawberry) Farming"
+  },
+  {
+    "naicscode": 111335,
+    "naicscodedescription": "Tree Nut Farming"
+  },
+  {
+    "naicscode": 111336,
+    "naicscodedescription": "Fruit and Tree Nut Combination Farming"
+  },
+  {
+    "naicscode": 111339,
+    "naicscodedescription": "Other Noncitrus Fruit Farming"
+  },
+  {
+    "naicscode": 111411,
+    "naicscodedescription": "Mushroom Production"
+  },
+  {
+    "naicscode": 111419,
+    "naicscodedescription": "Other Food Crops Grown Under Cover"
+  },
+  {
+    "naicscode": 111421,
+    "naicscodedescription": "Nursery and Tree Production"
+  },
+  {
+    "naicscode": 111422,
+    "naicscodedescription": "Floriculture Production"
+  },
+  {
+    "naicscode": 111910,
+    "naicscodedescription": "Tobacco Farming"
+  },
+  {
+    "naicscode": 111920,
+    "naicscodedescription": "Cotton Farming"
+  },
+  {
+    "naicscode": 111930,
+    "naicscodedescription": "Sugarcane Farming"
+  },
+  {
+    "naicscode": 111940,
+    "naicscodedescription": "Hay Farming"
+  },
+  {
+    "naicscode": 111991,
+    "naicscodedescription": "Sugar Beet Farming"
+  },
+  {
+    "naicscode": 111992,
+    "naicscodedescription": "Peanut Farming"
+  },
+  {
+    "naicscode": 111998,
+    "naicscodedescription": "All Other Miscellaneous Crop Farming"
+  },
+  {
+    "naicscode": 112111,
+    "naicscodedescription": "Beef Cattle Ranching and Farming"
+  },
+  {
+    "naicscode": 112112,
+    "naicscodedescription": "Cattle Feedlots"
+  },
+  {
+    "naicscode": 112120,
+    "naicscodedescription": "Dairy Cattle and Milk Production"
+  },
+  {
+    "naicscode": 112130,
+    "naicscodedescription": "Dual-Purpose Cattle Ranching and Farming"
+  },
+  {
+    "naicscode": 112210,
+    "naicscodedescription": "Hog and Pig Farming"
+  },
+  {
+    "naicscode": 112310,
+    "naicscodedescription": "Chicken Egg Production"
+  },
+  {
+    "naicscode": 112320,
+    "naicscodedescription": "Broilers and Other Meat Type Chicken Production"
+  },
+  {
+    "naicscode": 112330,
+    "naicscodedescription": "Turkey Production"
+  },
+  {
+    "naicscode": 112340,
+    "naicscodedescription": "Poultry Hatcheries"
+  },
+  {
+    "naicscode": 112390,
+    "naicscodedescription": "Other Poultry Production"
+  },
+  {
+    "naicscode": 112410,
+    "naicscodedescription": "Sheep Farming"
+  },
+  {
+    "naicscode": 112420,
+    "naicscodedescription": "Goat Farming"
+  },
+  {
+    "naicscode": 112511,
+    "naicscodedescription": "Finfish Farming and Fish Hatcheries"
+  },
+  {
+    "naicscode": 112512,
+    "naicscodedescription": "Shellfish Farming"
+  },
+  {
+    "naicscode": 112519,
+    "naicscodedescription": "Other Aquaculture"
+  },
+  {
+    "naicscode": 112910,
+    "naicscodedescription": "Apiculture"
+  },
+  {
+    "naicscode": 112920,
+    "naicscodedescription": "Horses and Other Equine Production"
+  },
+  {
+    "naicscode": 112930,
+    "naicscodedescription": "Fur-Bearing Animal and Rabbit Production"
+  },
+  {
+    "naicscode": 112990,
+    "naicscodedescription": "All Other Animal Production"
+  },
+  {
+    "naicscode": 113110,
+    "naicscodedescription": "Timber Tract Operations"
+  },
+  {
+    "naicscode": 113210,
+    "naicscodedescription": "Forest Nurseries and Gathering of Forest Products"
+  },
+  {
+    "naicscode": 113310,
+    "naicscodedescription": "Logging"
+  },
+  {
+    "naicscode": 114111,
+    "naicscodedescription": "Finfish Fishing"
+  },
+  {
+    "naicscode": 114112,
+    "naicscodedescription": "Shellfish Fishing"
+  },
+  {
+    "naicscode": 114119,
+    "naicscodedescription": "Other Marine Fishing"
+  },
+  {
+    "naicscode": 114210,
+    "naicscodedescription": "Hunting and Trapping"
+  },
+  {
+    "naicscode": 115111,
+    "naicscodedescription": "Cotton Ginning"
+  },
+  {
+    "naicscode": 115112,
+    "naicscodedescription": "Soil Preparation, Planting, and Cultivating"
+  },
+  {
+    "naicscode": 115113,
+    "naicscodedescription": "Crop Harvesting, Primarily by Machine"
+  },
+  {
+    "naicscode": 115114,
+    "naicscodedescription":
+      "Postharvest Crop Activities (except Cotton Ginning)"
+  },
+  {
+    "naicscode": 115115,
+    "naicscodedescription": "Farm Labor Contractors and Crew Leaders"
+  },
+  {
+    "naicscode": 115116,
+    "naicscodedescription": "Farm Management Services"
+  },
+  {
+    "naicscode": 115210,
+    "naicscodedescription": "Support Activities for Animal Production"
+  },
+  {
+    "naicscode": 115310,
+    "naicscodedescription": "Support Activities for Forestry"
+  },
+  {
+    "naicscode": 211120,
+    "naicscodedescription": "Crude Petroleum Extraction"
+  },
+  {
+    "naicscode": 211130,
+    "naicscodedescription": "Natural Gas Extraction"
+  },
+  {
+    "naicscode": 212111,
+    "naicscodedescription": "Bituminous Coal and Lignite Surface Mining"
+  },
+  {
+    "naicscode": 212112,
+    "naicscodedescription": "Bituminous Coal Underground Mining"
+  },
+  {
+    "naicscode": 212113,
+    "naicscodedescription": "Anthracite Mining"
+  },
+  {
+    "naicscode": 212210,
+    "naicscodedescription": "Iron Ore Mining"
+  },
+  {
+    "naicscode": 212221,
+    "naicscodedescription": "Gold Ore Mining"
+  },
+  {
+    "naicscode": 212222,
+    "naicscodedescription": "Silver Ore Mining"
+  },
+  {
+    "naicscode": 212230,
+    "naicscodedescription": "Copper, Nickel, Lead, and Zinc Mining"
+  },
+  {
+    "naicscode": 212291,
+    "naicscodedescription": "Uranium-Radium-Vanadium Ore Mining"
+  },
+  {
+    "naicscode": 212299,
+    "naicscodedescription": "All Other Metal Ore Mining"
+  },
+  {
+    "naicscode": 212311,
+    "naicscodedescription": "Dimension Stone Mining and Quarrying"
+  },
+  {
+    "naicscode": 212312,
+    "naicscodedescription": "Crushed and Broken Limestone Mining and Quarrying"
+  },
+  {
+    "naicscode": 212313,
+    "naicscodedescription": "Crushed and Broken Granite Mining and Quarrying"
+  },
+  {
+    "naicscode": 212319,
+    "naicscodedescription":
+      "Other Crushed and Broken Stone Mining and Quarrying"
+  },
+  {
+    "naicscode": 212321,
+    "naicscodedescription": "Construction Sand and Gravel Mining"
+  },
+  {
+    "naicscode": 212322,
+    "naicscodedescription": "Industrial Sand Mining"
+  },
+  {
+    "naicscode": 212324,
+    "naicscodedescription": "Kaolin and Ball Clay Mining"
+  },
+  {
+    "naicscode": 212325,
+    "naicscodedescription": "Clay and Ceramic and Refractory Minerals Mining"
+  },
+  {
+    "naicscode": 212391,
+    "naicscodedescription": "Potash, Soda, and Borate Mineral Mining"
+  },
+  {
+    "naicscode": 212392,
+    "naicscodedescription": "Phosphate Rock Mining"
+  },
+  {
+    "naicscode": 212393,
+    "naicscodedescription": "Other Chemical and Fertilizer Mineral Mining"
+  },
+  {
+    "naicscode": 212399,
+    "naicscodedescription": "All Other Nonmetallic Mineral Mining"
+  },
+  {
+    "naicscode": 213111,
+    "naicscodedescription": "Drilling Oil and Gas Wells"
+  },
+  {
+    "naicscode": 213112,
+    "naicscodedescription": "Support Activities for Oil and Gas Operations"
+  },
+  {
+    "naicscode": 213113,
+    "naicscodedescription": "Support Activities for Coal Mining"
+  },
+  {
+    "naicscode": 213114,
+    "naicscodedescription": "Support Activities for Metal Mining"
+  },
+  {
+    "naicscode": 213115,
+    "naicscodedescription":
+      "Support Activities for Nonmetallic Minerals (except Fuels) Mining"
+  },
+  {
+    "naicscode": 221111,
+    "naicscodedescription": "Hydroelectric Power Generation"
+  },
+  {
+    "naicscode": 221112,
+    "naicscodedescription": "Fossil Fuel Electric Power Generation"
+  },
+  {
+    "naicscode": 221113,
+    "naicscodedescription": "Nuclear Electric Power Generation"
+  },
+  {
+    "naicscode": 221114,
+    "naicscodedescription": "Solar Electric Power Generation"
+  },
+  {
+    "naicscode": 221115,
+    "naicscodedescription": "Wind Electric Power Generation"
+  },
+  {
+    "naicscode": 221116,
+    "naicscodedescription": "Geothermal Electric Power Generation"
+  },
+  {
+    "naicscode": 221117,
+    "naicscodedescription": "Biomass Electric Power Generation"
+  },
+  {
+    "naicscode": 221118,
+    "naicscodedescription": "Other Electric Power Generation"
+  },
+  {
+    "naicscode": 221121,
+    "naicscodedescription": "Electric Bulk Power Transmission and Control"
+  },
+  {
+    "naicscode": 221122,
+    "naicscodedescription": "Electric Power Distribution"
+  },
+  {
+    "naicscode": 221210,
+    "naicscodedescription": "Natural Gas Distribution"
+  },
+  {
+    "naicscode": 221310,
+    "naicscodedescription": "Water Supply and Irrigation Systems"
+  },
+  {
+    "naicscode": 221320,
+    "naicscodedescription": "Sewage Treatment Facilities"
+  },
+  {
+    "naicscode": 221330,
+    "naicscodedescription": "Steam and Air-Conditioning Supply"
+  },
+  {
+    "naicscode": 236115,
+    "naicscodedescription":
+      "New Single-Family Housing Construction (except For-Sale Builders)"
+  },
+  {
+    "naicscode": 236116,
+    "naicscodedescription":
+      "New Multifamily Housing Construction (except For-Sale Builders)"
+  },
+  {
+    "naicscode": 236117,
+    "naicscodedescription": "New Housing For-Sale Builders"
+  },
+  {
+    "naicscode": 236118,
+    "naicscodedescription": "Residential Remodelers"
+  },
+  {
+    "naicscode": 236210,
+    "naicscodedescription": "Industrial Building Construction"
+  },
+  {
+    "naicscode": 236220,
+    "naicscodedescription": "Commercial and Institutional Building Construction"
+  },
+  {
+    "naicscode": 237110,
+    "naicscodedescription":
+      "Water and Sewer Line and Related Structures Construction"
+  },
+  {
+    "naicscode": 237120,
+    "naicscodedescription":
+      "Oil and Gas Pipeline and Related Structures Construction"
+  },
+  {
+    "naicscode": 237130,
+    "naicscodedescription":
+      "Power and Communication Line and Related Structures Construction"
+  },
+  {
+    "naicscode": 237210,
+    "naicscodedescription": "Land Subdivision"
+  },
+  {
+    "naicscode": 237310,
+    "naicscodedescription": "Highway, Street, and Bridge Construction"
+  },
+  {
+    "naicscode": 237990,
+    "naicscodedescription": "Other Heavy and Civil Engineering Construction"
+  },
+  {
+    "naicscode": 238110,
+    "naicscodedescription":
+      "Poured Concrete Foundation and Structure Contractors"
+  },
+  {
+    "naicscode": 238120,
+    "naicscodedescription": "Structural Steel and Precast Concrete Contractors"
+  },
+  {
+    "naicscode": 238130,
+    "naicscodedescription": "Framing Contractors"
+  },
+  {
+    "naicscode": 238140,
+    "naicscodedescription": "Masonry Contractors"
+  },
+  {
+    "naicscode": 238150,
+    "naicscodedescription": "Glass and Glazing Contractors"
+  },
+  {
+    "naicscode": 238160,
+    "naicscodedescription": "Roofing Contractors"
+  },
+  {
+    "naicscode": 238170,
+    "naicscodedescription": "Siding Contractors"
+  },
+  {
+    "naicscode": 238190,
+    "naicscodedescription":
+      "Other Foundation, Structure, and Building Exterior Contractors"
+  },
+  {
+    "naicscode": 238210,
+    "naicscodedescription":
+      "Electrical Contractors and Other Wiring Installation Contractors"
+  },
+  {
+    "naicscode": 238220,
+    "naicscodedescription":
+      "Plumbing, Heating, and Air-Conditioning Contractors"
+  },
+  {
+    "naicscode": 238290,
+    "naicscodedescription": "Other Building Equipment Contractors"
+  },
+  {
+    "naicscode": 238310,
+    "naicscodedescription": "Drywall and Insulation Contractors"
+  },
+  {
+    "naicscode": 238320,
+    "naicscodedescription": "Painting and Wall Covering Contractors"
+  },
+  {
+    "naicscode": 238330,
+    "naicscodedescription": "Flooring Contractors"
+  },
+  {
+    "naicscode": 238340,
+    "naicscodedescription": "Tile and Terrazzo Contractors"
+  },
+  {
+    "naicscode": 238350,
+    "naicscodedescription": "Finish Carpentry Contractors"
+  },
+  {
+    "naicscode": 238390,
+    "naicscodedescription": "Other Building Finishing Contractors"
+  },
+  {
+    "naicscode": 238910,
+    "naicscodedescription": "Site Preparation Contractors"
+  },
+  {
+    "naicscode": 238990,
+    "naicscodedescription": "All Other Specialty Trade Contractors"
+  },
+  {
+    "naicscode": 311111,
+    "naicscodedescription": "Dog and Cat Food Manufacturing"
+  },
+  {
+    "naicscode": 311119,
+    "naicscodedescription": "Other Animal Food Manufacturing"
+  },
+  {
+    "naicscode": 311211,
+    "naicscodedescription": "Flour Milling"
+  },
+  {
+    "naicscode": 311212,
+    "naicscodedescription": "Rice Milling"
+  },
+  {
+    "naicscode": 311213,
+    "naicscodedescription": "Malt Manufacturing"
+  },
+  {
+    "naicscode": 311221,
+    "naicscodedescription": "Wet Corn Milling"
+  },
+  {
+    "naicscode": 311224,
+    "naicscodedescription": "Soybean and Other Oilseed Processing"
+  },
+  {
+    "naicscode": 311225,
+    "naicscodedescription": "Fats and Oils Refining and Blending"
+  },
+  {
+    "naicscode": 311230,
+    "naicscodedescription": "Breakfast Cereal Manufacturing"
+  },
+  {
+    "naicscode": 311313,
+    "naicscodedescription": "Beet Sugar Manufacturing"
+  },
+  {
+    "naicscode": 311314,
+    "naicscodedescription": "Cane Sugar Manufacturing"
+  },
+  {
+    "naicscode": 311340,
+    "naicscodedescription": "Nonchocolate Confectionery Manufacturing"
+  },
+  {
+    "naicscode": 311351,
+    "naicscodedescription":
+      "Chocolate and Confectionery Manufacturing from Cacao Beans"
+  },
+  {
+    "naicscode": 311352,
+    "naicscodedescription":
+      "Confectionery Manufacturing from Purchased Chocolate"
+  },
+  {
+    "naicscode": 311411,
+    "naicscodedescription": "Frozen Fruit, Juice, and Vegetable Manufacturing"
+  },
+  {
+    "naicscode": 311412,
+    "naicscodedescription": "Frozen Specialty Food Manufacturing"
+  },
+  {
+    "naicscode": 311421,
+    "naicscodedescription": "Fruit and Vegetable Canning"
+  },
+  {
+    "naicscode": 311422,
+    "naicscodedescription": "Specialty Canning"
+  },
+  {
+    "naicscode": 311423,
+    "naicscodedescription": "Dried and Dehydrated Food Manufacturing"
+  },
+  {
+    "naicscode": 311511,
+    "naicscodedescription": "Fluid Milk Manufacturing"
+  },
+  {
+    "naicscode": 311512,
+    "naicscodedescription": "Creamery Butter Manufacturing"
+  },
+  {
+    "naicscode": 311513,
+    "naicscodedescription": "Cheese Manufacturing"
+  },
+  {
+    "naicscode": 311514,
+    "naicscodedescription":
+      "Dry, Condensed, and Evaporated Dairy Product Manufacturing"
+  },
+  {
+    "naicscode": 311520,
+    "naicscodedescription": "Ice Cream and Frozen Dessert Manufacturing"
+  },
+  {
+    "naicscode": 311611,
+    "naicscodedescription": "Animal (except Poultry) Slaughtering"
+  },
+  {
+    "naicscode": 311612,
+    "naicscodedescription": "Meat Processed from Carcasses"
+  },
+  {
+    "naicscode": 311613,
+    "naicscodedescription": "Rendering and Meat Byproduct Processing"
+  },
+  {
+    "naicscode": 311615,
+    "naicscodedescription": "Poultry Processing"
+  },
+  {
+    "naicscode": 311710,
+    "naicscodedescription": "Seafood Product Preparation and Packaging"
+  },
+  {
+    "naicscode": 311811,
+    "naicscodedescription": "Retail Bakeries"
+  },
+  {
+    "naicscode": 311812,
+    "naicscodedescription": "Commercial Bakeries"
+  },
+  {
+    "naicscode": 311813,
+    "naicscodedescription":
+      "Frozen Cakes, Pies, and Other Pastries Manufacturing"
+  },
+  {
+    "naicscode": 311821,
+    "naicscodedescription": "Cookie and Cracker Manufacturing"
+  },
+  {
+    "naicscode": 311824,
+    "naicscodedescription":
+      "Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour"
+  },
+  {
+    "naicscode": 311830,
+    "naicscodedescription": "Tortilla Manufacturing"
+  },
+  {
+    "naicscode": 311911,
+    "naicscodedescription": "Roasted Nuts and Peanut Butter Manufacturing"
+  },
+  {
+    "naicscode": 311919,
+    "naicscodedescription": "Other Snack Food Manufacturing"
+  },
+  {
+    "naicscode": 311920,
+    "naicscodedescription": "Coffee and Tea Manufacturing"
+  },
+  {
+    "naicscode": 311930,
+    "naicscodedescription": "Flavoring Syrup and Concentrate Manufacturing"
+  },
+  {
+    "naicscode": 311941,
+    "naicscodedescription":
+      "Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing"
+  },
+  {
+    "naicscode": 311942,
+    "naicscodedescription": "Spice and Extract Manufacturing"
+  },
+  {
+    "naicscode": 311991,
+    "naicscodedescription": "Perishable Prepared Food Manufacturing"
+  },
+  {
+    "naicscode": 311999,
+    "naicscodedescription": "All Other Miscellaneous Food Manufacturing"
+  },
+  {
+    "naicscode": 312111,
+    "naicscodedescription": "Soft Drink Manufacturing"
+  },
+  {
+    "naicscode": 312112,
+    "naicscodedescription": "Bottled Water Manufacturing"
+  },
+  {
+    "naicscode": 312113,
+    "naicscodedescription": "Ice Manufacturing"
+  },
+  {
+    "naicscode": 312120,
+    "naicscodedescription": "Breweries"
+  },
+  {
+    "naicscode": 312130,
+    "naicscodedescription": "Wineries"
+  },
+  {
+    "naicscode": 312140,
+    "naicscodedescription": "Distilleries"
+  },
+  {
+    "naicscode": 312230,
+    "naicscodedescription": "Tobacco Manufacturing"
+  },
+  {
+    "naicscode": 313110,
+    "naicscodedescription": "Fiber, Yarn, and Thread Mills"
+  },
+  {
+    "naicscode": 313210,
+    "naicscodedescription": "Broadwoven Fabric Mills"
+  },
+  {
+    "naicscode": 313220,
+    "naicscodedescription":
+      "Narrow Fabric Mills and Schiffli Machine Embroidery"
+  },
+  {
+    "naicscode": 313230,
+    "naicscodedescription": "Nonwoven Fabric Mills"
+  },
+  {
+    "naicscode": 313240,
+    "naicscodedescription": "Knit Fabric Mills"
+  },
+  {
+    "naicscode": 313310,
+    "naicscodedescription": "Textile and Fabric Finishing Mills"
+  },
+  {
+    "naicscode": 313320,
+    "naicscodedescription": "Fabric Coating Mills"
+  },
+  {
+    "naicscode": 314110,
+    "naicscodedescription": "Carpet and Rug Mills"
+  },
+  {
+    "naicscode": 314120,
+    "naicscodedescription": "Curtain and Linen Mills"
+  },
+  {
+    "naicscode": 314910,
+    "naicscodedescription": "Textile Bag and Canvas Mills"
+  },
+  {
+    "naicscode": 314994,
+    "naicscodedescription":
+      "Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills"
+  },
+  {
+    "naicscode": 314999,
+    "naicscodedescription": "All Other Miscellaneous Textile Product Mills"
+  },
+  {
+    "naicscode": 315110,
+    "naicscodedescription": "Hosiery and Sock Mills"
+  },
+  {
+    "naicscode": 315190,
+    "naicscodedescription": "Other Apparel Knitting Mills"
+  },
+  {
+    "naicscode": 315210,
+    "naicscodedescription": "Cut and Sew Apparel Contractors"
+  },
+  {
+    "naicscode": 315220,
+    "naicscodedescription": "Men’s and Boys’ Cut and Sew Apparel Manufacturing"
+  },
+  {
+    "naicscode": 315240,
+    "naicscodedescription":
+      "Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+  },
+  {
+    "naicscode": 315280,
+    "naicscodedescription": "Other Cut and Sew Apparel Manufacturing"
+  },
+  {
+    "naicscode": 315990,
+    "naicscodedescription":
+      "Apparel Accessories and Other Apparel Manufacturing"
+  },
+  {
+    "naicscode": 316110,
+    "naicscodedescription": "Leather and Hide Tanning and Finishing"
+  },
+  {
+    "naicscode": 316210,
+    "naicscodedescription": "Footwear Manufacturing"
+  },
+  {
+    "naicscode": 316992,
+    "naicscodedescription": "Women's Handbag and Purse Manufacturing"
+  },
+  {
+    "naicscode": 316998,
+    "naicscodedescription":
+      "All Other Leather Good and Allied Product Manufacturing"
+  },
+  {
+    "naicscode": 321113,
+    "naicscodedescription": "Sawmills"
+  },
+  {
+    "naicscode": 321114,
+    "naicscodedescription": "Wood Preservation"
+  },
+  {
+    "naicscode": 321211,
+    "naicscodedescription": "Hardwood Veneer and Plywood Manufacturing"
+  },
+  {
+    "naicscode": 321212,
+    "naicscodedescription": "Softwood Veneer and Plywood Manufacturing"
+  },
+  {
+    "naicscode": 321213,
+    "naicscodedescription":
+      "Engineered Wood Member (except Truss) Manufacturing"
+  },
+  {
+    "naicscode": 321214,
+    "naicscodedescription": "Truss Manufacturing"
+  },
+  {
+    "naicscode": 321219,
+    "naicscodedescription": "Reconstituted Wood Product Manufacturing"
+  },
+  {
+    "naicscode": 321911,
+    "naicscodedescription": "Wood Window and Door Manufacturing"
+  },
+  {
+    "naicscode": 321912,
+    "naicscodedescription": "Cut Stock, Resawing Lumber, and Planing"
+  },
+  {
+    "naicscode": 321918,
+    "naicscodedescription": "Other Millwork (including Flooring)"
+  },
+  {
+    "naicscode": 321920,
+    "naicscodedescription": "Wood Container and Pallet Manufacturing"
+  },
+  {
+    "naicscode": 321991,
+    "naicscodedescription": "Manufactured Home (Mobile Home) Manufacturing"
+  },
+  {
+    "naicscode": 321992,
+    "naicscodedescription": "Prefabricated Wood Building Manufacturing"
+  },
+  {
+    "naicscode": 321999,
+    "naicscodedescription": "All Other Miscellaneous Wood Product Manufacturing"
+  },
+  {
+    "naicscode": 322110,
+    "naicscodedescription": "Pulp Mills"
+  },
+  {
+    "naicscode": 322121,
+    "naicscodedescription": "Paper (except Newsprint) Mills"
+  },
+  {
+    "naicscode": 322122,
+    "naicscodedescription": "Newsprint Mills"
+  },
+  {
+    "naicscode": 322130,
+    "naicscodedescription": "Paperboard Mills"
+  },
+  {
+    "naicscode": 322211,
+    "naicscodedescription": "Corrugated and Solid Fiber Box Manufacturing"
+  },
+  {
+    "naicscode": 322212,
+    "naicscodedescription": "Folding Paperboard Box Manufacturing"
+  },
+  {
+    "naicscode": 322219,
+    "naicscodedescription": "Other Paperboard Container Manufacturing"
+  },
+  {
+    "naicscode": 322220,
+    "naicscodedescription":
+      "Paper Bag and Coated and Treated Paper Manufacturing"
+  },
+  {
+    "naicscode": 322230,
+    "naicscodedescription": "Stationery Product Manufacturing"
+  },
+  {
+    "naicscode": 322291,
+    "naicscodedescription": "Sanitary Paper Product Manufacturing"
+  },
+  {
+    "naicscode": 322299,
+    "naicscodedescription": "All Other Converted Paper Product Manufacturing"
+  },
+  {
+    "naicscode": 323111,
+    "naicscodedescription": "Commercial Printing (except Screen and Books)"
+  },
+  {
+    "naicscode": 323113,
+    "naicscodedescription": "Commercial Screen Printing"
+  },
+  {
+    "naicscode": 323117,
+    "naicscodedescription": "Books Printing"
+  },
+  {
+    "naicscode": 323120,
+    "naicscodedescription": "Support Activities for Printing"
+  },
+  {
+    "naicscode": 324110,
+    "naicscodedescription": "Petroleum Refineries"
+  },
+  {
+    "naicscode": 324121,
+    "naicscodedescription": "Asphalt Paving Mixture and Block Manufacturing"
+  },
+  {
+    "naicscode": 324122,
+    "naicscodedescription":
+      "Asphalt Shingle and Coating Materials Manufacturing"
+  },
+  {
+    "naicscode": 324191,
+    "naicscodedescription": "Petroleum Lubricating Oil and Grease Manufacturing"
+  },
+  {
+    "naicscode": 324199,
+    "naicscodedescription":
+      "All Other Petroleum and Coal Products Manufacturing"
+  },
+  {
+    "naicscode": 325110,
+    "naicscodedescription": "Petrochemical Manufacturing"
+  },
+  {
+    "naicscode": 325120,
+    "naicscodedescription": "Industrial Gas Manufacturing"
+  },
+  {
+    "naicscode": 325130,
+    "naicscodedescription": "Synthetic Dye and Pigment Manufacturing"
+  },
+  {
+    "naicscode": 325180,
+    "naicscodedescription": "Other Basic Inorganic Chemical Manufacturing"
+  },
+  {
+    "naicscode": 325193,
+    "naicscodedescription": "Ethyl Alcohol Manufacturing"
+  },
+  {
+    "naicscode": 325194,
+    "naicscodedescription":
+      "Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing"
+  },
+  {
+    "naicscode": 325199,
+    "naicscodedescription": "All Other Basic Organic Chemical Manufacturing"
+  },
+  {
+    "naicscode": 325211,
+    "naicscodedescription": "Plastics Material and Resin Manufacturing"
+  },
+  {
+    "naicscode": 325212,
+    "naicscodedescription": "Synthetic Rubber Manufacturing"
+  },
+  {
+    "naicscode": 325220,
+    "naicscodedescription":
+      "Artificial and Synthetic Fibers and Filaments Manufacturing"
+  },
+  {
+    "naicscode": 325311,
+    "naicscodedescription": "Nitrogenous Fertilizer Manufacturing"
+  },
+  {
+    "naicscode": 325312,
+    "naicscodedescription": "Phosphatic Fertilizer Manufacturing"
+  },
+  {
+    "naicscode": 325314,
+    "naicscodedescription": "Fertilizer (Mixing Only) Manufacturing"
+  },
+  {
+    "naicscode": 325320,
+    "naicscodedescription":
+      "Pesticide and Other Agricultural Chemical Manufacturing"
+  },
+  {
+    "naicscode": 325411,
+    "naicscodedescription": "Medicinal and Botanical Manufacturing"
+  },
+  {
+    "naicscode": 325412,
+    "naicscodedescription": "Pharmaceutical Preparation Manufacturing"
+  },
+  {
+    "naicscode": 325413,
+    "naicscodedescription": "In-Vitro Diagnostic Substance Manufacturing"
+  },
+  {
+    "naicscode": 325414,
+    "naicscodedescription":
+      "Biological Product (except Diagnostic) Manufacturing"
+  },
+  {
+    "naicscode": 325510,
+    "naicscodedescription": "Paint and Coating Manufacturing"
+  },
+  {
+    "naicscode": 325520,
+    "naicscodedescription": "Adhesive Manufacturing"
+  },
+  {
+    "naicscode": 325611,
+    "naicscodedescription": "Soap and Other Detergent Manufacturing"
+  },
+  {
+    "naicscode": 325612,
+    "naicscodedescription": "Polish and Other Sanitation Good Manufacturing"
+  },
+  {
+    "naicscode": 325613,
+    "naicscodedescription": "Surface Active Agent Manufacturing"
+  },
+  {
+    "naicscode": 325620,
+    "naicscodedescription": "Toilet Preparation Manufacturing"
+  },
+  {
+    "naicscode": 325910,
+    "naicscodedescription": "Printing Ink Manufacturing"
+  },
+  {
+    "naicscode": 325920,
+    "naicscodedescription": "Explosives Manufacturing"
+  },
+  {
+    "naicscode": 325991,
+    "naicscodedescription": "Custom Compounding of Purchased Resins"
+  },
+  {
+    "naicscode": 325992,
+    "naicscodedescription":
+      "Photographic Film, Paper, Plate, and Chemical Manufacturing"
+  },
+  {
+    "naicscode": 325998,
+    "naicscodedescription":
+      "All Other Miscellaneous Chemical Product and Preparation Manufacturing"
+  },
+  {
+    "naicscode": 326111,
+    "naicscodedescription": "Plastics Bag and Pouch Manufacturing"
+  },
+  {
+    "naicscode": 326112,
+    "naicscodedescription":
+      "Plastics Packaging Film and Sheet (including Laminated) Manufacturing"
+  },
+  {
+    "naicscode": 326113,
+    "naicscodedescription":
+      "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing"
+  },
+  {
+    "naicscode": 326121,
+    "naicscodedescription": "Unlaminated Plastics Profile Shape Manufacturing"
+  },
+  {
+    "naicscode": 326122,
+    "naicscodedescription": "Plastics Pipe and Pipe Fitting Manufacturing"
+  },
+  {
+    "naicscode": 326130,
+    "naicscodedescription":
+      "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing"
+  },
+  {
+    "naicscode": 326140,
+    "naicscodedescription": "Polystyrene Foam Product Manufacturing"
+  },
+  {
+    "naicscode": 326150,
+    "naicscodedescription":
+      "Urethane and Other Foam Product (except Polystyrene) Manufacturing"
+  },
+  {
+    "naicscode": 326160,
+    "naicscodedescription": "Plastics Bottle Manufacturing"
+  },
+  {
+    "naicscode": 326191,
+    "naicscodedescription": "Plastics Plumbing Fixture Manufacturing"
+  },
+  {
+    "naicscode": 326199,
+    "naicscodedescription": "All Other Plastics Product Manufacturing"
+  },
+  {
+    "naicscode": 326211,
+    "naicscodedescription": "Tire Manufacturing (except Retreading)"
+  },
+  {
+    "naicscode": 326212,
+    "naicscodedescription": "Tire Retreading"
+  },
+  {
+    "naicscode": 326220,
+    "naicscodedescription":
+      "Rubber and Plastics Hoses and Belting Manufacturing"
+  },
+  {
+    "naicscode": 326291,
+    "naicscodedescription": "Rubber Product Manufacturing for Mechanical Use"
+  },
+  {
+    "naicscode": 326299,
+    "naicscodedescription": "All Other Rubber Product Manufacturing"
+  },
+  {
+    "naicscode": 327110,
+    "naicscodedescription":
+      "Pottery, Ceramics, and Plumbing Fixture Manufacturing"
+  },
+  {
+    "naicscode": 327120,
+    "naicscodedescription":
+      "Clay Building Material and Refractories Manufacturing"
+  },
+  {
+    "naicscode": 327211,
+    "naicscodedescription": "Flat Glass Manufacturing"
+  },
+  {
+    "naicscode": 327212,
+    "naicscodedescription":
+      "Other Pressed and Blown Glass and Glassware Manufacturing"
+  },
+  {
+    "naicscode": 327213,
+    "naicscodedescription": "Glass Container Manufacturing"
+  },
+  {
+    "naicscode": 327215,
+    "naicscodedescription":
+      "Glass Product Manufacturing Made of Purchased Glass"
+  },
+  {
+    "naicscode": 327310,
+    "naicscodedescription": "Cement Manufacturing"
+  },
+  {
+    "naicscode": 327320,
+    "naicscodedescription": "Ready-Mix Concrete Manufacturing"
+  },
+  {
+    "naicscode": 327331,
+    "naicscodedescription": "Concrete Block and Brick Manufacturing"
+  },
+  {
+    "naicscode": 327332,
+    "naicscodedescription": "Concrete Pipe Manufacturing"
+  },
+  {
+    "naicscode": 327390,
+    "naicscodedescription": "Other Concrete Product Manufacturing"
+  },
+  {
+    "naicscode": 327410,
+    "naicscodedescription": "Lime Manufacturing"
+  },
+  {
+    "naicscode": 327420,
+    "naicscodedescription": "Gypsum Product Manufacturing"
+  },
+  {
+    "naicscode": 327910,
+    "naicscodedescription": "Abrasive Product Manufacturing"
+  },
+  {
+    "naicscode": 327991,
+    "naicscodedescription": "Cut Stone and Stone Product Manufacturing"
+  },
+  {
+    "naicscode": 327992,
+    "naicscodedescription": "Ground or Treated Mineral and Earth Manufacturing"
+  },
+  {
+    "naicscode": 327993,
+    "naicscodedescription": "Mineral Wool Manufacturing"
+  },
+  {
+    "naicscode": 327999,
+    "naicscodedescription":
+      "All Other Miscellaneous Nonmetallic Mineral Product Manufacturing"
+  },
+  {
+    "naicscode": 331110,
+    "naicscodedescription": "Iron and Steel Mills and Ferroalloy Manufacturing"
+  },
+  {
+    "naicscode": 331210,
+    "naicscodedescription":
+      "Iron and Steel Pipe and Tube Manufacturing from Purchased Steel"
+  },
+  {
+    "naicscode": 331221,
+    "naicscodedescription": "Rolled Steel Shape Manufacturing"
+  },
+  {
+    "naicscode": 331222,
+    "naicscodedescription": "Steel Wire Drawing"
+  },
+  {
+    "naicscode": 331313,
+    "naicscodedescription": "Alumina Refining and Primary Aluminum Production"
+  },
+  {
+    "naicscode": 331314,
+    "naicscodedescription": "Secondary Smelting and Alloying of Aluminum"
+  },
+  {
+    "naicscode": 331315,
+    "naicscodedescription": "Aluminum Sheet, Plate, and Foil Manufacturing"
+  },
+  {
+    "naicscode": 331318,
+    "naicscodedescription": "Other Aluminum Rolling, Drawing, and Extruding"
+  },
+  {
+    "naicscode": 331410,
+    "naicscodedescription":
+      "Nonferrous Metal (except Aluminum) Smelting and Refining"
+  },
+  {
+    "naicscode": 331420,
+    "naicscodedescription": "Copper Rolling, Drawing, Extruding, and Alloying"
+  },
+  {
+    "naicscode": 331491,
+    "naicscodedescription":
+      "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding"
+  },
+  {
+    "naicscode": 331492,
+    "naicscodedescription":
+      "Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)"
+  },
+  {
+    "naicscode": 331511,
+    "naicscodedescription": "Iron Foundries"
+  },
+  {
+    "naicscode": 331512,
+    "naicscodedescription": "Steel Investment Foundries"
+  },
+  {
+    "naicscode": 331513,
+    "naicscodedescription": "Steel Foundries (except Investment)"
+  },
+  {
+    "naicscode": 331523,
+    "naicscodedescription": "Nonferrous Metal Die-Casting Foundries"
+  },
+  {
+    "naicscode": 331524,
+    "naicscodedescription": "Aluminum Foundries (except Die-Casting)"
+  },
+  {
+    "naicscode": 331529,
+    "naicscodedescription":
+      "Other Nonferrous Metal Foundries (except Die-Casting)"
+  },
+  {
+    "naicscode": 332111,
+    "naicscodedescription": "Iron and Steel Forging"
+  },
+  {
+    "naicscode": 332112,
+    "naicscodedescription": "Nonferrous Forging"
+  },
+  {
+    "naicscode": 332114,
+    "naicscodedescription": "Custom Roll Forming"
+  },
+  {
+    "naicscode": 332117,
+    "naicscodedescription": "Powder Metallurgy Part Manufacturing"
+  },
+  {
+    "naicscode": 332119,
+    "naicscodedescription":
+      "Metal Crown, Closure, and Other Metal Stamping (except Automotive)"
+  },
+  {
+    "naicscode": 332215,
+    "naicscodedescription":
+      "Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing"
+  },
+  {
+    "naicscode": 332216,
+    "naicscodedescription": "Saw Blade and Handtool Manufacturing"
+  },
+  {
+    "naicscode": 332311,
+    "naicscodedescription":
+      "Prefabricated Metal Building and Component Manufacturing"
+  },
+  {
+    "naicscode": 332312,
+    "naicscodedescription": "Fabricated Structural Metal Manufacturing"
+  },
+  {
+    "naicscode": 332313,
+    "naicscodedescription": "Plate Work Manufacturing"
+  },
+  {
+    "naicscode": 332321,
+    "naicscodedescription": "Metal Window and Door Manufacturing"
+  },
+  {
+    "naicscode": 332322,
+    "naicscodedescription": "Sheet Metal Work Manufacturing"
+  },
+  {
+    "naicscode": 332323,
+    "naicscodedescription":
+      "Ornamental and Architectural Metal Work Manufacturing"
+  },
+  {
+    "naicscode": 332410,
+    "naicscodedescription": "Power Boiler and Heat Exchanger Manufacturing"
+  },
+  {
+    "naicscode": 332420,
+    "naicscodedescription": "Metal Tank (Heavy Gauge) Manufacturing"
+  },
+  {
+    "naicscode": 332431,
+    "naicscodedescription": "Metal Can Manufacturing"
+  },
+  {
+    "naicscode": 332439,
+    "naicscodedescription": "Other Metal Container Manufacturing"
+  },
+  {
+    "naicscode": 332510,
+    "naicscodedescription": "Hardware Manufacturing"
+  },
+  {
+    "naicscode": 332613,
+    "naicscodedescription": "Spring Manufacturing"
+  },
+  {
+    "naicscode": 332618,
+    "naicscodedescription": "Other Fabricated Wire Product Manufacturing"
+  },
+  {
+    "naicscode": 332710,
+    "naicscodedescription": "Machine Shops"
+  },
+  {
+    "naicscode": 332721,
+    "naicscodedescription": "Precision Turned Product Manufacturing"
+  },
+  {
+    "naicscode": 332722,
+    "naicscodedescription": "Bolt, Nut, Screw, Rivet, and Washer Manufacturing"
+  },
+  {
+    "naicscode": 332811,
+    "naicscodedescription": "Metal Heat Treating"
+  },
+  {
+    "naicscode": 332812,
+    "naicscodedescription":
+      "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers"
+  },
+  {
+    "naicscode": 332813,
+    "naicscodedescription":
+      "Electroplating, Plating, Polishing, Anodizing, and Coloring"
+  },
+  {
+    "naicscode": 332911,
+    "naicscodedescription": "Industrial Valve Manufacturing"
+  },
+  {
+    "naicscode": 332912,
+    "naicscodedescription": "Fluid Power Valve and Hose Fitting Manufacturing"
+  },
+  {
+    "naicscode": 332913,
+    "naicscodedescription": "Plumbing Fixture Fitting and Trim Manufacturing"
+  },
+  {
+    "naicscode": 332919,
+    "naicscodedescription": "Other Metal Valve and Pipe Fitting Manufacturing"
+  },
+  {
+    "naicscode": 332991,
+    "naicscodedescription": "Ball and Roller Bearing Manufacturing"
+  },
+  {
+    "naicscode": 332992,
+    "naicscodedescription": "Small Arms Ammunition Manufacturing"
+  },
+  {
+    "naicscode": 332993,
+    "naicscodedescription": "Ammunition (except Small Arms) Manufacturing"
+  },
+  {
+    "naicscode": 332994,
+    "naicscodedescription":
+      "Small Arms, Ordnance, and Ordnance Accessories Manufacturing"
+  },
+  {
+    "naicscode": 332996,
+    "naicscodedescription": "Fabricated Pipe and Pipe Fitting Manufacturing"
+  },
+  {
+    "naicscode": 332999,
+    "naicscodedescription":
+      "All Other Miscellaneous Fabricated Metal Product Manufacturing"
+  },
+  {
+    "naicscode": 333111,
+    "naicscodedescription": "Farm Machinery and Equipment Manufacturing"
+  },
+  {
+    "naicscode": 333112,
+    "naicscodedescription":
+      "Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing"
+  },
+  {
+    "naicscode": 333120,
+    "naicscodedescription": "Construction Machinery Manufacturing"
+  },
+  {
+    "naicscode": 333131,
+    "naicscodedescription": "Mining Machinery and Equipment Manufacturing"
+  },
+  {
+    "naicscode": 333132,
+    "naicscodedescription":
+      "Oil and Gas Field Machinery and Equipment Manufacturing"
+  },
+  {
+    "naicscode": 333241,
+    "naicscodedescription": "Food Product Machinery Manufacturing"
+  },
+  {
+    "naicscode": 333242,
+    "naicscodedescription": "Semiconductor Machinery Manufacturing"
+  },
+  {
+    "naicscode": 333243,
+    "naicscodedescription":
+      "Sawmill, Woodworking, and Paper Machinery Manufacturing"
+  },
+  {
+    "naicscode": 333244,
+    "naicscodedescription": "Printing Machinery and Equipment Manufacturing"
+  },
+  {
+    "naicscode": 333249,
+    "naicscodedescription": "Other Industrial Machinery Manufacturing"
+  },
+  {
+    "naicscode": 333314,
+    "naicscodedescription": "Optical Instrument and Lens Manufacturing"
+  },
+  {
+    "naicscode": 333316,
+    "naicscodedescription":
+      "Photographic and Photocopying Equipment Manufacturing"
+  },
+  {
+    "naicscode": 333318,
+    "naicscodedescription":
+      "Other Commercial and Service Industry Machinery Manufacturing"
+  },
+  {
+    "naicscode": 333413,
+    "naicscodedescription":
+      "Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing"
+  },
+  {
+    "naicscode": 333414,
+    "naicscodedescription":
+      "Heating Equipment (except Warm Air Furnaces) Manufacturing"
+  },
+  {
+    "naicscode": 333415,
+    "naicscodedescription":
+      "Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing"
+  },
+  {
+    "naicscode": 333511,
+    "naicscodedescription": "Industrial Mold Manufacturing"
+  },
+  {
+    "naicscode": 333514,
+    "naicscodedescription":
+      "Special Die and Tool, Die Set, Jig, and Fixture Manufacturing"
+  },
+  {
+    "naicscode": 333515,
+    "naicscodedescription":
+      "Cutting Tool and Machine Tool Accessory Manufacturing"
+  },
+  {
+    "naicscode": 333517,
+    "naicscodedescription": "Machine Tool Manufacturing"
+  },
+  {
+    "naicscode": 333519,
+    "naicscodedescription":
+      "Rolling Mill and Other Metalworking Machinery Manufacturing"
+  },
+  {
+    "naicscode": 333611,
+    "naicscodedescription":
+      "Turbine and Turbine Generator Set Units Manufacturing"
+  },
+  {
+    "naicscode": 333612,
+    "naicscodedescription":
+      "Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing"
+  },
+  {
+    "naicscode": 333613,
+    "naicscodedescription":
+      "Mechanical Power Transmission Equipment Manufacturing"
+  },
+  {
+    "naicscode": 333618,
+    "naicscodedescription": "Other Engine Equipment Manufacturing"
+  },
+  {
+    "naicscode": 333912,
+    "naicscodedescription": "Air and Gas Compressor Manufacturing"
+  },
+  {
+    "naicscode": 333914,
+    "naicscodedescription":
+      "Measuring, Dispensing, and Other Pumping Equipment Manufacturing"
+  },
+  {
+    "naicscode": 333921,
+    "naicscodedescription": "Elevator and Moving Stairway Manufacturing"
+  },
+  {
+    "naicscode": 333922,
+    "naicscodedescription": "Conveyor and Conveying Equipment Manufacturing"
+  },
+  {
+    "naicscode": 333923,
+    "naicscodedescription":
+      "Overhead Traveling Crane, Hoist, and Monorail System Manufacturing"
+  },
+  {
+    "naicscode": 333924,
+    "naicscodedescription":
+      "Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing"
+  },
+  {
+    "naicscode": 333991,
+    "naicscodedescription": "Power-Driven Handtool Manufacturing"
+  },
+  {
+    "naicscode": 333992,
+    "naicscodedescription": "Welding and Soldering Equipment Manufacturing"
+  },
+  {
+    "naicscode": 333993,
+    "naicscodedescription": "Packaging Machinery Manufacturing"
+  },
+  {
+    "naicscode": 333994,
+    "naicscodedescription": "Industrial Process Furnace and Oven Manufacturing"
+  },
+  {
+    "naicscode": 333995,
+    "naicscodedescription": "Fluid Power Cylinder and Actuator Manufacturing"
+  },
+  {
+    "naicscode": 333996,
+    "naicscodedescription": "Fluid Power Pump and Motor Manufacturing"
+  },
+  {
+    "naicscode": 333997,
+    "naicscodedescription": "Scale and Balance Manufacturing"
+  },
+  {
+    "naicscode": 333999,
+    "naicscodedescription":
+      "All Other Miscellaneous General Purpose Machinery Manufacturing"
+  },
+  {
+    "naicscode": 334111,
+    "naicscodedescription": "Electronic Computer Manufacturing"
+  },
+  {
+    "naicscode": 334112,
+    "naicscodedescription": "Computer Storage Device Manufacturing"
+  },
+  {
+    "naicscode": 334118,
+    "naicscodedescription":
+      "Computer Terminal and Other Computer Peripheral Equipment Manufacturing"
+  },
+  {
+    "naicscode": 334210,
+    "naicscodedescription": "Telephone Apparatus Manufacturing"
+  },
+  {
+    "naicscode": 334220,
+    "naicscodedescription":
+      "Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing"
+  },
+  {
+    "naicscode": 334290,
+    "naicscodedescription": "Other Communications Equipment Manufacturing"
+  },
+  {
+    "naicscode": 334310,
+    "naicscodedescription": "Audio and Video Equipment Manufacturing"
+  },
+  {
+    "naicscode": 334412,
+    "naicscodedescription": "Bare Printed Circuit Board Manufacturing"
+  },
+  {
+    "naicscode": 334413,
+    "naicscodedescription": "Semiconductor and Related Device Manufacturing"
+  },
+  {
+    "naicscode": 334416,
+    "naicscodedescription":
+      "Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing"
+  },
+  {
+    "naicscode": 334417,
+    "naicscodedescription": "Electronic Connector Manufacturing"
+  },
+  {
+    "naicscode": 334418,
+    "naicscodedescription":
+      "Printed Circuit Assembly (Electronic Assembly) Manufacturing"
+  },
+  {
+    "naicscode": 334419,
+    "naicscodedescription": "Other Electronic Component Manufacturing"
+  },
+  {
+    "naicscode": 334510,
+    "naicscodedescription":
+      "Electromedical and Electrotherapeutic Apparatus Manufacturing"
+  },
+  {
+    "naicscode": 334511,
+    "naicscodedescription":
+      "Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing"
+  },
+  {
+    "naicscode": 334512,
+    "naicscodedescription":
+      "Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use"
+  },
+  {
+    "naicscode": 334513,
+    "naicscodedescription":
+      "Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables"
+  },
+  {
+    "naicscode": 334514,
+    "naicscodedescription":
+      "Totalizing Fluid Meter and Counting Device Manufacturing"
+  },
+  {
+    "naicscode": 334515,
+    "naicscodedescription":
+      "Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals"
+  },
+  {
+    "naicscode": 334516,
+    "naicscodedescription": "Analytical Laboratory Instrument Manufacturing"
+  },
+  {
+    "naicscode": 334517,
+    "naicscodedescription": "Irradiation Apparatus Manufacturing"
+  },
+  {
+    "naicscode": 334519,
+    "naicscodedescription":
+      "Other Measuring and Controlling Device Manufacturing"
+  },
+  {
+    "naicscode": 334613,
+    "naicscodedescription":
+      "Blank Magnetic and Optical Recording Media Manufacturing"
+  },
+  {
+    "naicscode": 334614,
+    "naicscodedescription":
+      "Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing"
+  },
+  {
+    "naicscode": 335110,
+    "naicscodedescription": "Electric Lamp Bulb and Part Manufacturing"
+  },
+  {
+    "naicscode": 335121,
+    "naicscodedescription":
+      "Residential Electric Lighting Fixture Manufacturing"
+  },
+  {
+    "naicscode": 335122,
+    "naicscodedescription":
+      "Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing"
+  },
+  {
+    "naicscode": 335129,
+    "naicscodedescription": "Other Lighting Equipment Manufacturing"
+  },
+  {
+    "naicscode": 335210,
+    "naicscodedescription": "Small Electrical Appliance Manufacturing"
+  },
+  {
+    "naicscode": 335220,
+    "naicscodedescription": "Major Household Appliance Manufacturing"
+  },
+  {
+    "naicscode": 335311,
+    "naicscodedescription":
+      "Power, Distribution, and Specialty Transformer Manufacturing"
+  },
+  {
+    "naicscode": 335312,
+    "naicscodedescription": "Motor and Generator Manufacturing"
+  },
+  {
+    "naicscode": 335313,
+    "naicscodedescription": "Switchgear and Switchboard Apparatus Manufacturing"
+  },
+  {
+    "naicscode": 335314,
+    "naicscodedescription": "Relay and Industrial Control Manufacturing"
+  },
+  {
+    "naicscode": 335911,
+    "naicscodedescription": "Storage Battery Manufacturing"
+  },
+  {
+    "naicscode": 335912,
+    "naicscodedescription": "Primary Battery Manufacturing"
+  },
+  {
+    "naicscode": 335921,
+    "naicscodedescription": "Fiber Optic Cable Manufacturing"
+  },
+  {
+    "naicscode": 335929,
+    "naicscodedescription": "Other Communication and Energy Wire Manufacturing"
+  },
+  {
+    "naicscode": 335931,
+    "naicscodedescription": "Current-Carrying Wiring Device Manufacturing"
+  },
+  {
+    "naicscode": 335932,
+    "naicscodedescription": "Noncurrent-Carrying Wiring Device Manufacturing"
+  },
+  {
+    "naicscode": 335991,
+    "naicscodedescription": "Carbon and Graphite Product Manufacturing"
+  },
+  {
+    "naicscode": 335999,
+    "naicscodedescription":
+      "All Other Miscellaneous Electrical Equipment and Component Manufacturing"
+  },
+  {
+    "naicscode": 336111,
+    "naicscodedescription": "Automobile Manufacturing"
+  },
+  {
+    "naicscode": 336112,
+    "naicscodedescription": "Light Truck and Utility Vehicle Manufacturing"
+  },
+  {
+    "naicscode": 336120,
+    "naicscodedescription": "Heavy Duty Truck Manufacturing"
+  },
+  {
+    "naicscode": 336211,
+    "naicscodedescription": "Motor Vehicle Body Manufacturing"
+  },
+  {
+    "naicscode": 336212,
+    "naicscodedescription": "Truck Trailer Manufacturing"
+  },
+  {
+    "naicscode": 336213,
+    "naicscodedescription": "Motor Home Manufacturing"
+  },
+  {
+    "naicscode": 336214,
+    "naicscodedescription": "Travel Trailer and Camper Manufacturing"
+  },
+  {
+    "naicscode": 336310,
+    "naicscodedescription":
+      "Motor Vehicle Gasoline Engine and Engine Parts Manufacturing"
+  },
+  {
+    "naicscode": 336320,
+    "naicscodedescription":
+      "Motor Vehicle Electrical and Electronic Equipment Manufacturing"
+  },
+  {
+    "naicscode": 336330,
+    "naicscodedescription":
+      "Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing"
+  },
+  {
+    "naicscode": 336340,
+    "naicscodedescription": "Motor Vehicle Brake System Manufacturing"
+  },
+  {
+    "naicscode": 336350,
+    "naicscodedescription":
+      "Motor Vehicle Transmission and Power Train Parts Manufacturing"
+  },
+  {
+    "naicscode": 336360,
+    "naicscodedescription":
+      "Motor Vehicle Seating and Interior Trim Manufacturing"
+  },
+  {
+    "naicscode": 336370,
+    "naicscodedescription": "Motor Vehicle Metal Stamping"
+  },
+  {
+    "naicscode": 336390,
+    "naicscodedescription": "Other Motor Vehicle Parts Manufacturing"
+  },
+  {
+    "naicscode": 336411,
+    "naicscodedescription": "Aircraft Manufacturing"
+  },
+  {
+    "naicscode": 336412,
+    "naicscodedescription": "Aircraft Engine and Engine Parts Manufacturing"
+  },
+  {
+    "naicscode": 336413,
+    "naicscodedescription":
+      "Other Aircraft Parts and Auxiliary Equipment Manufacturing"
+  },
+  {
+    "naicscode": 336414,
+    "naicscodedescription": "Guided Missile and Space Vehicle Manufacturing"
+  },
+  {
+    "naicscode": 336415,
+    "naicscodedescription":
+      "Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing"
+  },
+  {
+    "naicscode": 336419,
+    "naicscodedescription":
+      "Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing"
+  },
+  {
+    "naicscode": 336510,
+    "naicscodedescription": "Railroad Rolling Stock Manufacturing"
+  },
+  {
+    "naicscode": 336611,
+    "naicscodedescription": "Ship Building and Repairing"
+  },
+  {
+    "naicscode": 336612,
+    "naicscodedescription": "Boat Building"
+  },
+  {
+    "naicscode": 336991,
+    "naicscodedescription": "Motorcycle, Bicycle, and Parts Manufacturing"
+  },
+  {
+    "naicscode": 336992,
+    "naicscodedescription":
+      "Military Armored Vehicle, Tank, and Tank Component Manufacturing"
+  },
+  {
+    "naicscode": 336999,
+    "naicscodedescription": "All Other Transportation Equipment Manufacturing"
+  },
+  {
+    "naicscode": 337110,
+    "naicscodedescription": "Wood Kitchen Cabinet and Countertop Manufacturing"
+  },
+  {
+    "naicscode": 337121,
+    "naicscodedescription": "Upholstered Household Furniture Manufacturing"
+  },
+  {
+    "naicscode": 337122,
+    "naicscodedescription":
+      "Nonupholstered Wood Household Furniture Manufacturing"
+  },
+  {
+    "naicscode": 337124,
+    "naicscodedescription": "Metal Household Furniture Manufacturing"
+  },
+  {
+    "naicscode": 337125,
+    "naicscodedescription":
+      "Household Furniture (except Wood and Metal) Manufacturing"
+  },
+  {
+    "naicscode": 337127,
+    "naicscodedescription": "Institutional Furniture Manufacturing"
+  },
+  {
+    "naicscode": 337211,
+    "naicscodedescription": "Wood Office Furniture Manufacturing"
+  },
+  {
+    "naicscode": 337212,
+    "naicscodedescription":
+      "Custom Architectural Woodwork and Millwork Manufacturing"
+  },
+  {
+    "naicscode": 337214,
+    "naicscodedescription": "Office Furniture (except Wood) Manufacturing"
+  },
+  {
+    "naicscode": 337215,
+    "naicscodedescription":
+      "Showcase, Partition, Shelving, and Locker Manufacturing"
+  },
+  {
+    "naicscode": 337910,
+    "naicscodedescription": "Mattress Manufacturing"
+  },
+  {
+    "naicscode": 337920,
+    "naicscodedescription": "Blind and Shade Manufacturing"
+  },
+  {
+    "naicscode": 339112,
+    "naicscodedescription": "Surgical and Medical Instrument Manufacturing"
+  },
+  {
+    "naicscode": 339113,
+    "naicscodedescription": "Surgical Appliance and Supplies Manufacturing"
+  },
+  {
+    "naicscode": 339114,
+    "naicscodedescription": "Dental Equipment and Supplies Manufacturing"
+  },
+  {
+    "naicscode": 339115,
+    "naicscodedescription": "Ophthalmic Goods Manufacturing"
+  },
+  {
+    "naicscode": 339116,
+    "naicscodedescription": "Dental Laboratories"
+  },
+  {
+    "naicscode": 339910,
+    "naicscodedescription": "Jewelry and Silverware Manufacturing"
+  },
+  {
+    "naicscode": 339920,
+    "naicscodedescription": "Sporting and Athletic Goods Manufacturing"
+  },
+  {
+    "naicscode": 339930,
+    "naicscodedescription": "Doll, Toy, and Game Manufacturing"
+  },
+  {
+    "naicscode": 339940,
+    "naicscodedescription": "Office Supplies (except Paper) Manufacturing"
+  },
+  {
+    "naicscode": 339950,
+    "naicscodedescription": "Sign Manufacturing"
+  },
+  {
+    "naicscode": 339991,
+    "naicscodedescription": "Gasket, Packing, and Sealing Device Manufacturing"
+  },
+  {
+    "naicscode": 339992,
+    "naicscodedescription": "Musical Instrument Manufacturing"
+  },
+  {
+    "naicscode": 339993,
+    "naicscodedescription": "Fastener, Button, Needle, and Pin Manufacturing"
+  },
+  {
+    "naicscode": 339994,
+    "naicscodedescription": "Broom, Brush, and Mop Manufacturing"
+  },
+  {
+    "naicscode": 339995,
+    "naicscodedescription": "Burial Casket Manufacturing"
+  },
+  {
+    "naicscode": 339999,
+    "naicscodedescription": "All Other Miscellaneous Manufacturing"
+  },
+  {
+    "naicscode": 423110,
+    "naicscodedescription":
+      "Automobile and Other Motor Vehicle Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423120,
+    "naicscodedescription":
+      "Motor Vehicle Supplies and New Parts Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423130,
+    "naicscodedescription": "Tire and Tube Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423140,
+    "naicscodedescription": "Motor Vehicle Parts (Used) Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423210,
+    "naicscodedescription": "Furniture Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423220,
+    "naicscodedescription": "Home Furnishing Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423310,
+    "naicscodedescription":
+      "Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423320,
+    "naicscodedescription":
+      "Brick, Stone, and Related Construction Material Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423330,
+    "naicscodedescription":
+      "Roofing, Siding, and Insulation Material Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423390,
+    "naicscodedescription": "Other Construction Material Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423410,
+    "naicscodedescription":
+      "Photographic Equipment and Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423420,
+    "naicscodedescription": "Office Equipment Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423430,
+    "naicscodedescription":
+      "Computer and Computer Peripheral Equipment and Software Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423440,
+    "naicscodedescription": "Other Commercial Equipment Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423450,
+    "naicscodedescription":
+      "Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423460,
+    "naicscodedescription": "Ophthalmic Goods Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423490,
+    "naicscodedescription":
+      "Other Professional Equipment and Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423510,
+    "naicscodedescription":
+      "Metal Service Centers and Other Metal Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423520,
+    "naicscodedescription":
+      "Coal and Other Mineral and Ore Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423610,
+    "naicscodedescription":
+      "Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423620,
+    "naicscodedescription":
+      "Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423690,
+    "naicscodedescription":
+      "Other Electronic Parts and Equipment Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423710,
+    "naicscodedescription": "Hardware Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423720,
+    "naicscodedescription":
+      "Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423730,
+    "naicscodedescription":
+      "Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423740,
+    "naicscodedescription":
+      "Refrigeration Equipment and Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423810,
+    "naicscodedescription":
+      "Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423820,
+    "naicscodedescription":
+      "Farm and Garden Machinery and Equipment Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423830,
+    "naicscodedescription":
+      "Industrial Machinery and Equipment Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423840,
+    "naicscodedescription": "Industrial Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423850,
+    "naicscodedescription":
+      "Service Establishment Equipment and Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423860,
+    "naicscodedescription":
+      "Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423910,
+    "naicscodedescription":
+      "Sporting and Recreational Goods and Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423920,
+    "naicscodedescription":
+      "Toy and Hobby Goods and Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423930,
+    "naicscodedescription": "Recyclable Material Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423940,
+    "naicscodedescription":
+      "Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers"
+  },
+  {
+    "naicscode": 423990,
+    "naicscodedescription":
+      "Other Miscellaneous Durable Goods Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424110,
+    "naicscodedescription": "Printing and Writing Paper Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424120,
+    "naicscodedescription":
+      "Stationery and Office Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424130,
+    "naicscodedescription":
+      "Industrial and Personal Service Paper Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424210,
+    "naicscodedescription": "Drugs and Druggists' Sundries Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424310,
+    "naicscodedescription":
+      "Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424320,
+    "naicscodedescription":
+      "Men's and Boys' Clothing and Furnishings Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424330,
+    "naicscodedescription":
+      "Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424340,
+    "naicscodedescription": "Footwear Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424410,
+    "naicscodedescription": "General Line Grocery Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424420,
+    "naicscodedescription": "Packaged Frozen Food Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424430,
+    "naicscodedescription":
+      "Dairy Product (except Dried or Canned) Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424440,
+    "naicscodedescription": "Poultry and Poultry Product Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424450,
+    "naicscodedescription": "Confectionery Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424460,
+    "naicscodedescription": "Fish and Seafood Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424470,
+    "naicscodedescription": "Meat and Meat Product Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424480,
+    "naicscodedescription": "Fresh Fruit and Vegetable Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424490,
+    "naicscodedescription":
+      "Other Grocery and Related Products Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424510,
+    "naicscodedescription": "Grain and Field Bean Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424520,
+    "naicscodedescription": "Livestock Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424590,
+    "naicscodedescription":
+      "Other Farm Product Raw Material Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424610,
+    "naicscodedescription":
+      "Plastics Materials and Basic Forms and Shapes Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424690,
+    "naicscodedescription":
+      "Other Chemical and Allied Products Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424710,
+    "naicscodedescription": "Petroleum Bulk Stations and Terminals"
+  },
+  {
+    "naicscode": 424720,
+    "naicscodedescription":
+      "Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)"
+  },
+  {
+    "naicscode": 424810,
+    "naicscodedescription": "Beer and Ale Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424820,
+    "naicscodedescription":
+      "Wine and Distilled Alcoholic Beverage Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424910,
+    "naicscodedescription": "Farm Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424920,
+    "naicscodedescription":
+      "Book, Periodical, and Newspaper Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424930,
+    "naicscodedescription":
+      "Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424940,
+    "naicscodedescription": "Tobacco and Tobacco Product Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424950,
+    "naicscodedescription": "Paint, Varnish, and Supplies Merchant Wholesalers"
+  },
+  {
+    "naicscode": 424990,
+    "naicscodedescription":
+      "Other Miscellaneous Nondurable Goods Merchant Wholesalers"
+  },
+  {
+    "naicscode": 425110,
+    "naicscodedescription": "Business to Business Electronic Markets"
+  },
+  {
+    "naicscode": 425120,
+    "naicscodedescription": "Wholesale Trade Agents and Brokers"
+  },
+  {
+    "naicscode": 441110,
+    "naicscodedescription": "New Car Dealers"
+  },
+  {
+    "naicscode": 441120,
+    "naicscodedescription": "Used Car Dealers"
+  },
+  {
+    "naicscode": 441210,
+    "naicscodedescription": "Recreational Vehicle Dealers"
+  },
+  {
+    "naicscode": 441222,
+    "naicscodedescription": "Boat Dealers"
+  },
+  {
+    "naicscode": 441228,
+    "naicscodedescription":
+      "Motorcycle, ATV, and All Other Motor Vehicle Dealers"
+  },
+  {
+    "naicscode": 441310,
+    "naicscodedescription": "Automotive Parts and Accessories Stores"
+  },
+  {
+    "naicscode": 441320,
+    "naicscodedescription": "Tire Dealers"
+  },
+  {
+    "naicscode": 442110,
+    "naicscodedescription": "Furniture Stores"
+  },
+  {
+    "naicscode": 442210,
+    "naicscodedescription": "Floor Covering Stores"
+  },
+  {
+    "naicscode": 442291,
+    "naicscodedescription": "Window Treatment Stores"
+  },
+  {
+    "naicscode": 442299,
+    "naicscodedescription": "All Other Home Furnishings Stores"
+  },
+  {
+    "naicscode": 443141,
+    "naicscodedescription": "Household Appliance Stores"
+  },
+  {
+    "naicscode": 443142,
+    "naicscodedescription": "Electronics Stores"
+  },
+  {
+    "naicscode": 444110,
+    "naicscodedescription": "Home Centers"
+  },
+  {
+    "naicscode": 444120,
+    "naicscodedescription": "Paint and Wallpaper Stores"
+  },
+  {
+    "naicscode": 444130,
+    "naicscodedescription": "Hardware Stores"
+  },
+  {
+    "naicscode": 444190,
+    "naicscodedescription": "Other Building Material Dealers"
+  },
+  {
+    "naicscode": 444210,
+    "naicscodedescription": "Outdoor Power Equipment Stores"
+  },
+  {
+    "naicscode": 444220,
+    "naicscodedescription": "Nursery, Garden Center, and Farm Supply Stores"
+  },
+  {
+    "naicscode": 445110,
+    "naicscodedescription":
+      "Supermarkets and Other Grocery (except Convenience) Stores"
+  },
+  {
+    "naicscode": 445120,
+    "naicscodedescription": "Convenience Stores"
+  },
+  {
+    "naicscode": 445210,
+    "naicscodedescription": "Meat Markets"
+  },
+  {
+    "naicscode": 445220,
+    "naicscodedescription": "Fish and Seafood Markets"
+  },
+  {
+    "naicscode": 445230,
+    "naicscodedescription": "Fruit and Vegetable Markets"
+  },
+  {
+    "naicscode": 445291,
+    "naicscodedescription": "Baked Goods Stores"
+  },
+  {
+    "naicscode": 445292,
+    "naicscodedescription": "Confectionery and Nut Stores"
+  },
+  {
+    "naicscode": 445299,
+    "naicscodedescription": "All Other Specialty Food Stores"
+  },
+  {
+    "naicscode": 445310,
+    "naicscodedescription": "Beer, Wine, and Liquor Stores"
+  },
+  {
+    "naicscode": 446110,
+    "naicscodedescription": "Pharmacies and Drug Stores"
+  },
+  {
+    "naicscode": 446120,
+    "naicscodedescription": "Cosmetics, Beauty Supplies, and Perfume Stores"
+  },
+  {
+    "naicscode": 446130,
+    "naicscodedescription": "Optical Goods Stores"
+  },
+  {
+    "naicscode": 446191,
+    "naicscodedescription": "Food (Health) Supplement Stores"
+  },
+  {
+    "naicscode": 446199,
+    "naicscodedescription": "All Other Health and Personal Care Stores"
+  },
+  {
+    "naicscode": 447110,
+    "naicscodedescription": "Gasoline Stations with Convenience Stores"
+  },
+  {
+    "naicscode": 447190,
+    "naicscodedescription": "Other Gasoline Stations"
+  },
+  {
+    "naicscode": 448110,
+    "naicscodedescription": "Men's Clothing Stores"
+  },
+  {
+    "naicscode": 448120,
+    "naicscodedescription": "Women's Clothing Stores"
+  },
+  {
+    "naicscode": 448130,
+    "naicscodedescription": "Children's and Infants' Clothing Stores"
+  },
+  {
+    "naicscode": 448140,
+    "naicscodedescription": "Family Clothing Stores"
+  },
+  {
+    "naicscode": 448150,
+    "naicscodedescription": "Clothing Accessories Stores"
+  },
+  {
+    "naicscode": 448190,
+    "naicscodedescription": "Other Clothing Stores"
+  },
+  {
+    "naicscode": 448210,
+    "naicscodedescription": "Shoe Stores"
+  },
+  {
+    "naicscode": 448310,
+    "naicscodedescription": "Jewelry Stores"
+  },
+  {
+    "naicscode": 448320,
+    "naicscodedescription": "Luggage and Leather Goods Stores"
+  },
+  {
+    "naicscode": 451110,
+    "naicscodedescription": "Sporting Goods Stores"
+  },
+  {
+    "naicscode": 451120,
+    "naicscodedescription": "Hobby, Toy, and Game Stores"
+  },
+  {
+    "naicscode": 451130,
+    "naicscodedescription": "Sewing, Needlework, and Piece Goods Stores"
+  },
+  {
+    "naicscode": 451140,
+    "naicscodedescription": "Musical Instrument and Supplies Stores"
+  },
+  {
+    "naicscode": 451211,
+    "naicscodedescription": "Book Stores"
+  },
+  {
+    "naicscode": 451212,
+    "naicscodedescription": "News Dealers and Newsstands"
+  },
+  {
+    "naicscode": 452210,
+    "naicscodedescription": "Department Stores"
+  },
+  {
+    "naicscode": 452311,
+    "naicscodedescription": "Warehouse Clubs and Supercenters"
+  },
+  {
+    "naicscode": 452319,
+    "naicscodedescription": "All Other General Merchandise Stores"
+  },
+  {
+    "naicscode": 453110,
+    "naicscodedescription": "Florists"
+  },
+  {
+    "naicscode": 453210,
+    "naicscodedescription": "Office Supplies and Stationery Stores"
+  },
+  {
+    "naicscode": 453220,
+    "naicscodedescription": "Gift, Novelty, and Souvenir Stores"
+  },
+  {
+    "naicscode": 453310,
+    "naicscodedescription": "Used Merchandise Stores"
+  },
+  {
+    "naicscode": 453910,
+    "naicscodedescription": "Pet and Pet Supplies Stores"
+  },
+  {
+    "naicscode": 453920,
+    "naicscodedescription": "Art Dealers"
+  },
+  {
+    "naicscode": 453930,
+    "naicscodedescription": "Manufactured (Mobile) Home Dealers"
+  },
+  {
+    "naicscode": 453991,
+    "naicscodedescription": "Tobacco Stores"
+  },
+  {
+    "naicscode": 453998,
+    "naicscodedescription":
+      "All Other Miscellaneous Store Retailers (except Tobacco Stores)"
+  },
+  {
+    "naicscode": 454110,
+    "naicscodedescription": "Electronic Shopping and Mail-Order Houses"
+  },
+  {
+    "naicscode": 454210,
+    "naicscodedescription": "Vending Machine Operators"
+  },
+  {
+    "naicscode": 454310,
+    "naicscodedescription": "Fuel Dealers"
+  },
+  {
+    "naicscode": 454390,
+    "naicscodedescription": "Other Direct Selling Establishments"
+  },
+  {
+    "naicscode": 481111,
+    "naicscodedescription": "Scheduled Passenger Air Transportation"
+  },
+  {
+    "naicscode": 481112,
+    "naicscodedescription": "Scheduled Freight Air Transportation"
+  },
+  {
+    "naicscode": 481211,
+    "naicscodedescription":
+      "Nonscheduled Chartered Passenger Air Transportation"
+  },
+  {
+    "naicscode": 481212,
+    "naicscodedescription": "Nonscheduled Chartered Freight Air Transportation"
+  },
+  {
+    "naicscode": 481219,
+    "naicscodedescription": "Other Nonscheduled Air Transportation"
+  },
+  {
+    "naicscode": 482111,
+    "naicscodedescription": "Line-Haul Railroads"
+  },
+  {
+    "naicscode": 482112,
+    "naicscodedescription": "Short Line Railroads"
+  },
+  {
+    "naicscode": 483111,
+    "naicscodedescription": "Deep Sea Freight Transportation"
+  },
+  {
+    "naicscode": 483112,
+    "naicscodedescription": "Deep Sea Passenger Transportation"
+  },
+  {
+    "naicscode": 483113,
+    "naicscodedescription": "Coastal and Great Lakes Freight Transportation"
+  },
+  {
+    "naicscode": 483114,
+    "naicscodedescription": "Coastal and Great Lakes Passenger Transportation"
+  },
+  {
+    "naicscode": 483211,
+    "naicscodedescription": "Inland Water Freight Transportation"
+  },
+  {
+    "naicscode": 483212,
+    "naicscodedescription": "Inland Water Passenger Transportation"
+  },
+  {
+    "naicscode": 484110,
+    "naicscodedescription": "General Freight Trucking, Local"
+  },
+  {
+    "naicscode": 484121,
+    "naicscodedescription": "General Freight Trucking, Long-Distance, Truckload"
+  },
+  {
+    "naicscode": 484122,
+    "naicscodedescription":
+      "General Freight Trucking, Long-Distance, Less Than Truckload"
+  },
+  {
+    "naicscode": 484210,
+    "naicscodedescription": "Used Household and Office Goods Moving"
+  },
+  {
+    "naicscode": 484220,
+    "naicscodedescription":
+      "Specialized Freight (except Used Goods) Trucking, Local"
+  },
+  {
+    "naicscode": 484230,
+    "naicscodedescription":
+      "Specialized Freight (except Used Goods) Trucking, Long-Distance"
+  },
+  {
+    "naicscode": 485111,
+    "naicscodedescription": "Mixed Mode Transit Systems"
+  },
+  {
+    "naicscode": 485112,
+    "naicscodedescription": "Commuter Rail Systems"
+  },
+  {
+    "naicscode": 485113,
+    "naicscodedescription": "Bus and Other Motor Vehicle Transit Systems"
+  },
+  {
+    "naicscode": 485119,
+    "naicscodedescription": "Other Urban Transit Systems"
+  },
+  {
+    "naicscode": 485210,
+    "naicscodedescription": "Interurban and Rural Bus Transportation"
+  },
+  {
+    "naicscode": 485310,
+    "naicscodedescription": "Taxi Service"
+  },
+  {
+    "naicscode": 485320,
+    "naicscodedescription": "Limousine Service"
+  },
+  {
+    "naicscode": 485410,
+    "naicscodedescription": "School and Employee Bus Transportation"
+  },
+  {
+    "naicscode": 485510,
+    "naicscodedescription": "Charter Bus Industry"
+  },
+  {
+    "naicscode": 485991,
+    "naicscodedescription": "Special Needs Transportation"
+  },
+  {
+    "naicscode": 485999,
+    "naicscodedescription":
+      "All Other Transit and Ground Passenger Transportation"
+  },
+  {
+    "naicscode": 486110,
+    "naicscodedescription": "Pipeline Transportation of Crude Oil"
+  },
+  {
+    "naicscode": 486210,
+    "naicscodedescription": "Pipeline Transportation of Natural Gas"
+  },
+  {
+    "naicscode": 486910,
+    "naicscodedescription":
+      "Pipeline Transportation of Refined Petroleum Products"
+  },
+  {
+    "naicscode": 486990,
+    "naicscodedescription": "All Other Pipeline Transportation"
+  },
+  {
+    "naicscode": 487110,
+    "naicscodedescription": "Scenic and Sightseeing Transportation, Land"
+  },
+  {
+    "naicscode": 487210,
+    "naicscodedescription": "Scenic and Sightseeing Transportation, Water"
+  },
+  {
+    "naicscode": 487990,
+    "naicscodedescription": "Scenic and Sightseeing Transportation, Other"
+  },
+  {
+    "naicscode": 488111,
+    "naicscodedescription": "Air Traffic Control"
+  },
+  {
+    "naicscode": 488119,
+    "naicscodedescription": "Other Airport Operations"
+  },
+  {
+    "naicscode": 488190,
+    "naicscodedescription": "Other Support Activities for Air Transportation"
+  },
+  {
+    "naicscode": 488210,
+    "naicscodedescription": "Support Activities for Rail Transportation"
+  },
+  {
+    "naicscode": 488310,
+    "naicscodedescription": "Port and Harbor Operations"
+  },
+  {
+    "naicscode": 488320,
+    "naicscodedescription": "Marine Cargo Handling"
+  },
+  {
+    "naicscode": 488330,
+    "naicscodedescription": "Navigational Services to Shipping"
+  },
+  {
+    "naicscode": 488390,
+    "naicscodedescription": "Other Support Activities for Water Transportation"
+  },
+  {
+    "naicscode": 488410,
+    "naicscodedescription": "Motor Vehicle Towing"
+  },
+  {
+    "naicscode": 488490,
+    "naicscodedescription": "Other Support Activities for Road Transportation"
+  },
+  {
+    "naicscode": 488510,
+    "naicscodedescription": "Freight Transportation Arrangemen"
+  },
+  {
+    "naicscode": 488991,
+    "naicscodedescription": "Packing and Crating"
+  },
+  {
+    "naicscode": 488999,
+    "naicscodedescription": "All Other Support Activities for Transportation"
+  },
+  {
+    "naicscode": 491110,
+    "naicscodedescription": "Postal Service"
+  },
+  {
+    "naicscode": 492110,
+    "naicscodedescription": "Couriers and Express Delivery Services"
+  },
+  {
+    "naicscode": 492210,
+    "naicscodedescription": "Local Messengers and Local Delivery"
+  },
+  {
+    "naicscode": 493110,
+    "naicscodedescription": "General Warehousing and Storage"
+  },
+  {
+    "naicscode": 493120,
+    "naicscodedescription": "Refrigerated Warehousing and Storage"
+  },
+  {
+    "naicscode": 493130,
+    "naicscodedescription": "Farm Product Warehousing and Storage"
+  },
+  {
+    "naicscode": 493190,
+    "naicscodedescription": "Other Warehousing and Storage"
+  },
+  {
+    "naicscode": 511110,
+    "naicscodedescription": "Newspaper Publishers"
+  },
+  {
+    "naicscode": 511120,
+    "naicscodedescription": "Periodical Publishers"
+  },
+  {
+    "naicscode": 511130,
+    "naicscodedescription": "Book Publishers"
+  },
+  {
+    "naicscode": 511140,
+    "naicscodedescription": "Directory and Mailing List Publishers"
+  },
+  {
+    "naicscode": 511191,
+    "naicscodedescription": "Greeting Card Publishers"
+  },
+  {
+    "naicscode": 511199,
+    "naicscodedescription": "All Other Publishers"
+  },
+  {
+    "naicscode": 511210,
+    "naicscodedescription": "Software Publishers"
+  },
+  {
+    "naicscode": 512110,
+    "naicscodedescription": "Motion Picture and Video Production"
+  },
+  {
+    "naicscode": 512120,
+    "naicscodedescription": "Motion Picture and Video Distribution"
+  },
+  {
+    "naicscode": 512131,
+    "naicscodedescription": "Motion Picture Theaters (except Drive-Ins)"
+  },
+  {
+    "naicscode": 512132,
+    "naicscodedescription": "Drive-In Motion Picture Theaters"
+  },
+  {
+    "naicscode": 512191,
+    "naicscodedescription": "Teleproduction and Other Postproduction Services"
+  },
+  {
+    "naicscode": 512199,
+    "naicscodedescription": "Other Motion Picture and Video Industries"
+  },
+  {
+    "naicscode": 512230,
+    "naicscodedescription": "Music Publishers"
+  },
+  {
+    "naicscode": 512240,
+    "naicscodedescription": "Sound Recording Studios"
+  },
+  {
+    "naicscode": 512250,
+    "naicscodedescription": "Record Production and Distribution"
+  },
+  {
+    "naicscode": 512290,
+    "naicscodedescription": "Other Sound Recording Industries"
+  },
+  {
+    "naicscode": 515111,
+    "naicscodedescription": "Radio Networks"
+  },
+  {
+    "naicscode": 515112,
+    "naicscodedescription": "Radio Stations"
+  },
+  {
+    "naicscode": 515120,
+    "naicscodedescription": "Television Broadcasting"
+  },
+  {
+    "naicscode": 515210,
+    "naicscodedescription": "Cable and Other Subscription Programming"
+  },
+  {
+    "naicscode": 517311,
+    "naicscodedescription": "Wired Telecommunications Carriers"
+  },
+  {
+    "naicscode": 517312,
+    "naicscodedescription":
+      "Wireless Telecommunications Carriers (except Satellite)"
+  },
+  {
+    "naicscode": 517410,
+    "naicscodedescription": "Satellite Telecommunications"
+  },
+  {
+    "naicscode": 517911,
+    "naicscodedescription": "Telecommunications Resellers"
+  },
+  {
+    "naicscode": 517919,
+    "naicscodedescription": "All Other Telecommunications"
+  },
+  {
+    "naicscode": 518210,
+    "naicscodedescription": "Data Processing, Hosting, and Related Services"
+  },
+  {
+    "naicscode": 519110,
+    "naicscodedescription": "News Syndicates"
+  },
+  {
+    "naicscode": 519120,
+    "naicscodedescription": "Libraries and Archives"
+  },
+  {
+    "naicscode": 519130,
+    "naicscodedescription":
+      "Internet Publishing and Broadcasting and Web Search Portals"
+  },
+  {
+    "naicscode": 519190,
+    "naicscodedescription": "All Other Information Services"
+  },
+  {
+    "naicscode": 521110,
+    "naicscodedescription": "Monetary Authorities-Central Bank"
+  },
+  {
+    "naicscode": 522110,
+    "naicscodedescription": "Commercial Banking"
+  },
+  {
+    "naicscode": 522120,
+    "naicscodedescription": "Savings Institutions"
+  },
+  {
+    "naicscode": 522130,
+    "naicscodedescription": "Credit Unions"
+  },
+  {
+    "naicscode": 522190,
+    "naicscodedescription": "Other Depository Credit Intermediation"
+  },
+  {
+    "naicscode": 522210,
+    "naicscodedescription": "Credit Card Issuing"
+  },
+  {
+    "naicscode": 522220,
+    "naicscodedescription": "Sales Financing"
+  },
+  {
+    "naicscode": 522291,
+    "naicscodedescription": "Consumer Lending"
+  },
+  {
+    "naicscode": 522292,
+    "naicscodedescription": "Real Estate Credi"
+  },
+  {
+    "naicscode": 522293,
+    "naicscodedescription": "International Trade Financing"
+  },
+  {
+    "naicscode": 522294,
+    "naicscodedescription": "Secondary Market Financing"
+  },
+  {
+    "naicscode": 522298,
+    "naicscodedescription": "All Other Nondepository Credit Intermediation"
+  },
+  {
+    "naicscode": 522310,
+    "naicscodedescription": "Mortgage and Nonmortgage Loan Brokers"
+  },
+  {
+    "naicscode": 522320,
+    "naicscodedescription":
+      "Financial Transactions Processing, Reserve, and Clearinghouse Activities"
+  },
+  {
+    "naicscode": 522390,
+    "naicscodedescription": "Other Activities Related to Credit Intermediation"
+  },
+  {
+    "naicscode": 523110,
+    "naicscodedescription": "Investment Banking and Securities Dealing"
+  },
+  {
+    "naicscode": 523120,
+    "naicscodedescription": "Securities Brokerage"
+  },
+  {
+    "naicscode": 523130,
+    "naicscodedescription": "Commodity Contracts Dealing"
+  },
+  {
+    "naicscode": 523140,
+    "naicscodedescription": "Commodity Contracts Brokerage"
+  },
+  {
+    "naicscode": 523210,
+    "naicscodedescription": "Securities and Commodity Exchanges"
+  },
+  {
+    "naicscode": 523910,
+    "naicscodedescription": "Miscellaneous Intermediation"
+  },
+  {
+    "naicscode": 523920,
+    "naicscodedescription": "Portfolio Managemen"
+  },
+  {
+    "naicscode": 523930,
+    "naicscodedescription": "Investment Advice"
+  },
+  {
+    "naicscode": 523991,
+    "naicscodedescription": "Trust, Fiduciary, and Custody Activities"
+  },
+  {
+    "naicscode": 523999,
+    "naicscodedescription": "Miscellaneous Financial Investment Activities"
+  },
+  {
+    "naicscode": 524113,
+    "naicscodedescription": "Direct Life Insurance Carriers"
+  },
+  {
+    "naicscode": 524114,
+    "naicscodedescription": "Direct Health and Medical Insurance Carriers"
+  },
+  {
+    "naicscode": 524126,
+    "naicscodedescription": "Direct Property and Casualty Insurance Carriers"
+  },
+  {
+    "naicscode": 524127,
+    "naicscodedescription": "Direct Title Insurance Carriers"
+  },
+  {
+    "naicscode": 524128,
+    "naicscodedescription":
+      "Other Direct Insurance (except Life, Health, and Medical) Carriers"
+  },
+  {
+    "naicscode": 524130,
+    "naicscodedescription": "Reinsurance Carriers"
+  },
+  {
+    "naicscode": 524210,
+    "naicscodedescription": "Insurance Agencies and Brokerages"
+  },
+  {
+    "naicscode": 524291,
+    "naicscodedescription": "Claims Adjusting"
+  },
+  {
+    "naicscode": 524292,
+    "naicscodedescription":
+      "Third Party Administration of Insurance and Pension Funds"
+  },
+  {
+    "naicscode": 524298,
+    "naicscodedescription": "All Other Insurance Related Activities"
+  },
+  {
+    "naicscode": 525110,
+    "naicscodedescription": "Pension Funds"
+  },
+  {
+    "naicscode": 525120,
+    "naicscodedescription": "Health and Welfare Funds"
+  },
+  {
+    "naicscode": 525190,
+    "naicscodedescription": "Other Insurance Funds"
+  },
+  {
+    "naicscode": 525910,
+    "naicscodedescription": "Open-End Investment Funds"
+  },
+  {
+    "naicscode": 525920,
+    "naicscodedescription": "Trusts, Estates, and Agency Accounts"
+  },
+  {
+    "naicscode": 525990,
+    "naicscodedescription": "Other Financial Vehicles"
+  },
+  {
+    "naicscode": 531110,
+    "naicscodedescription": "Lessors of Residential Buildings and Dwellings"
+  },
+  {
+    "naicscode": 531120,
+    "naicscodedescription":
+      "Lessors of Nonresidential Buildings (except Miniwarehouses)"
+  },
+  {
+    "naicscode": 531130,
+    "naicscodedescription": "Lessors of Miniwarehouses and Self-Storage Units"
+  },
+  {
+    "naicscode": 531190,
+    "naicscodedescription": "Lessors of Other Real Estate Property"
+  },
+  {
+    "naicscode": 531210,
+    "naicscodedescription": "Offices of Real Estate Agents and Brokers"
+  },
+  {
+    "naicscode": 531311,
+    "naicscodedescription": "Residential Property Managers"
+  },
+  {
+    "naicscode": 531312,
+    "naicscodedescription": "Nonresidential Property Managers"
+  },
+  {
+    "naicscode": 531320,
+    "naicscodedescription": "Offices of Real Estate Appraisers"
+  },
+  {
+    "naicscode": 531390,
+    "naicscodedescription": "Other Activities Related to Real Estate"
+  },
+  {
+    "naicscode": 532111,
+    "naicscodedescription": "Passenger Car Rental"
+  },
+  {
+    "naicscode": 532112,
+    "naicscodedescription": "Passenger Car Leasing"
+  },
+  {
+    "naicscode": 532120,
+    "naicscodedescription":
+      "Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"
+  },
+  {
+    "naicscode": 532210,
+    "naicscodedescription": "Consumer Electronics and Appliances Rental"
+  },
+  {
+    "naicscode": 532281,
+    "naicscodedescription": "Formal Wear and Costume Rental"
+  },
+  {
+    "naicscode": 532282,
+    "naicscodedescription": "Video Tape and Disc Rental"
+  },
+  {
+    "naicscode": 532283,
+    "naicscodedescription": "Home Health Equipment Rental"
+  },
+  {
+    "naicscode": 532284,
+    "naicscodedescription": "Recreational Goods Rental"
+  },
+  {
+    "naicscode": 532289,
+    "naicscodedescription": "All Other Consumer Goods Rental"
+  },
+  {
+    "naicscode": 532310,
+    "naicscodedescription": "General Rental Centers"
+  },
+  {
+    "naicscode": 532411,
+    "naicscodedescription":
+      "Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing"
+  },
+  {
+    "naicscode": 532412,
+    "naicscodedescription":
+      "Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing"
+  },
+  {
+    "naicscode": 532420,
+    "naicscodedescription": "Office Machinery and Equipment Rental and Leasing"
+  },
+  {
+    "naicscode": 532490,
+    "naicscodedescription":
+      "Other Commercial and Industrial Machinery and Equipment Rental and Leasing"
+  },
+  {
+    "naicscode": 533110,
+    "naicscodedescription":
+      "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)"
+  },
+  {
+    "naicscode": 541110,
+    "naicscodedescription": "Offices of Lawyers"
+  },
+  {
+    "naicscode": 541120,
+    "naicscodedescription": "Offices of Notaries"
+  },
+  {
+    "naicscode": 541191,
+    "naicscodedescription": "Title Abstract and Settlement Offices"
+  },
+  {
+    "naicscode": 541199,
+    "naicscodedescription": "All Other Legal Services"
+  },
+  {
+    "naicscode": 541211,
+    "naicscodedescription": "Offices of Certified Public Accountants"
+  },
+  {
+    "naicscode": 541213,
+    "naicscodedescription": "Tax Preparation Services"
+  },
+  {
+    "naicscode": 541214,
+    "naicscodedescription": "Payroll Services"
+  },
+  {
+    "naicscode": 541219,
+    "naicscodedescription": "Other Accounting Services"
+  },
+  {
+    "naicscode": 541310,
+    "naicscodedescription": "Architectural Services"
+  },
+  {
+    "naicscode": 541320,
+    "naicscodedescription": "Landscape Architectural Services"
+  },
+  {
+    "naicscode": 541330,
+    "naicscodedescription": "Engineering Services"
+  },
+  {
+    "naicscode": 541340,
+    "naicscodedescription": "Drafting Services"
+  },
+  {
+    "naicscode": 541350,
+    "naicscodedescription": "Building Inspection Services"
+  },
+  {
+    "naicscode": 541360,
+    "naicscodedescription": "Geophysical Surveying and Mapping Services"
+  },
+  {
+    "naicscode": 541370,
+    "naicscodedescription":
+      "Surveying and Mapping (except Geophysical) Services"
+  },
+  {
+    "naicscode": 541380,
+    "naicscodedescription": "Testing Laboratories"
+  },
+  {
+    "naicscode": 541410,
+    "naicscodedescription": "Interior Design Services"
+  },
+  {
+    "naicscode": 541420,
+    "naicscodedescription": "Industrial Design Services"
+  },
+  {
+    "naicscode": 541430,
+    "naicscodedescription": "Graphic Design Services"
+  },
+  {
+    "naicscode": 541490,
+    "naicscodedescription": "Other Specialized Design Services"
+  },
+  {
+    "naicscode": 541511,
+    "naicscodedescription": "Custom Computer Programming Services"
+  },
+  {
+    "naicscode": 541512,
+    "naicscodedescription": "Computer Systems Design Services"
+  },
+  {
+    "naicscode": 541513,
+    "naicscodedescription": "Computer Facilities Management Services"
+  },
+  {
+    "naicscode": 541519,
+    "naicscodedescription": "Other Computer Related Services"
+  },
+  {
+    "naicscode": 541611,
+    "naicscodedescription":
+      "Administrative Management and General Management Consulting Services"
+  },
+  {
+    "naicscode": 541612,
+    "naicscodedescription": "Human Resources Consulting Services"
+  },
+  {
+    "naicscode": 541613,
+    "naicscodedescription": "Marketing Consulting Services"
+  },
+  {
+    "naicscode": 541614,
+    "naicscodedescription":
+      "Process, Physical Distribution, and Logistics Consulting Services"
+  },
+  {
+    "naicscode": 541618,
+    "naicscodedescription": "Other Management Consulting Services"
+  },
+  {
+    "naicscode": 541620,
+    "naicscodedescription": "Environmental Consulting Services"
+  },
+  {
+    "naicscode": 541690,
+    "naicscodedescription": "Other Scientific and Technical Consulting Services"
+  },
+  {
+    "naicscode": 541713,
+    "naicscodedescription": "Research and Development in Nanotechnology"
+  },
+  {
+    "naicscode": 541714,
+    "naicscodedescription":
+      "Research and Development in Biotechnology (except Nanobiotechnology)"
+  },
+  {
+    "naicscode": 541715,
+    "naicscodedescription":
+      "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+  },
+  {
+    "naicscode": 541720,
+    "naicscodedescription":
+      "Research and Development in the Social Sciences and Humanities"
+  },
+  {
+    "naicscode": 541810,
+    "naicscodedescription": "Advertising Agencies"
+  },
+  {
+    "naicscode": 541820,
+    "naicscodedescription": "Public Relations Agencies"
+  },
+  {
+    "naicscode": 541830,
+    "naicscodedescription": "Media Buying Agencies"
+  },
+  {
+    "naicscode": 541840,
+    "naicscodedescription": "Media Representatives"
+  },
+  {
+    "naicscode": 541850,
+    "naicscodedescription": "Outdoor Advertising"
+  },
+  {
+    "naicscode": 541860,
+    "naicscodedescription": "Direct Mail Advertising"
+  },
+  {
+    "naicscode": 541870,
+    "naicscodedescription": "Advertising Material Distribution Services"
+  },
+  {
+    "naicscode": 541890,
+    "naicscodedescription": "Other Services Related to Advertising"
+  },
+  {
+    "naicscode": 541910,
+    "naicscodedescription": "Marketing Research and Public Opinion Polling"
+  },
+  {
+    "naicscode": 541921,
+    "naicscodedescription": "Photography Studios, Portrai"
+  },
+  {
+    "naicscode": 541922,
+    "naicscodedescription": "Commercial Photography"
+  },
+  {
+    "naicscode": 541930,
+    "naicscodedescription": "Translation and Interpretation Services"
+  },
+  {
+    "naicscode": 541940,
+    "naicscodedescription": "Veterinary Services"
+  },
+  {
+    "naicscode": 541990,
+    "naicscodedescription":
+      "All Other Professional, Scientific, and Technical Services"
+  },
+  {
+    "naicscode": 551111,
+    "naicscodedescription": "Offices of Bank Holding Companies"
+  },
+  {
+    "naicscode": 551112,
+    "naicscodedescription": "Offices of Other Holding Companies"
+  },
+  {
+    "naicscode": 551114,
+    "naicscodedescription":
+      "Corporate, Subsidiary, and Regional Managing Offices"
+  },
+  {
+    "naicscode": 561110,
+    "naicscodedescription": "Office Administrative Services"
+  },
+  {
+    "naicscode": 561210,
+    "naicscodedescription": "Facilities Support Services"
+  },
+  {
+    "naicscode": 561311,
+    "naicscodedescription": "Employment Placement Agencies"
+  },
+  {
+    "naicscode": 561312,
+    "naicscodedescription": "Executive Search Services"
+  },
+  {
+    "naicscode": 561320,
+    "naicscodedescription": "Temporary Help Services"
+  },
+  {
+    "naicscode": 561330,
+    "naicscodedescription": "Professional Employer Organizations"
+  },
+  {
+    "naicscode": 561410,
+    "naicscodedescription": "Document Preparation Services"
+  },
+  {
+    "naicscode": 561421,
+    "naicscodedescription": "Telephone Answering Services"
+  },
+  {
+    "naicscode": 561422,
+    "naicscodedescription": "Telemarketing Bureaus and Other Contact Centers"
+  },
+  {
+    "naicscode": 561431,
+    "naicscodedescription": "Private Mail Centers"
+  },
+  {
+    "naicscode": 561439,
+    "naicscodedescription":
+      "Other Business Service Centers (including Copy Shops)"
+  },
+  {
+    "naicscode": 561440,
+    "naicscodedescription": "Collection Agencies"
+  },
+  {
+    "naicscode": 561450,
+    "naicscodedescription": "Credit Bureaus"
+  },
+  {
+    "naicscode": 561491,
+    "naicscodedescription": "Repossession Services"
+  },
+  {
+    "naicscode": 561492,
+    "naicscodedescription": "Court Reporting and Stenotype Services"
+  },
+  {
+    "naicscode": 561499,
+    "naicscodedescription": "All Other Business Support Services"
+  },
+  {
+    "naicscode": 561510,
+    "naicscodedescription": "Travel Agencies"
+  },
+  {
+    "naicscode": 561520,
+    "naicscodedescription": "Tour Operators"
+  },
+  {
+    "naicscode": 561591,
+    "naicscodedescription": "Convention and Visitors Bureaus"
+  },
+  {
+    "naicscode": 561599,
+    "naicscodedescription":
+      "All Other Travel Arrangement and Reservation Services"
+  },
+  {
+    "naicscode": 561611,
+    "naicscodedescription": "Investigation Services"
+  },
+  {
+    "naicscode": 561612,
+    "naicscodedescription": "Security Guards and Patrol Services"
+  },
+  {
+    "naicscode": 561613,
+    "naicscodedescription": "Armored Car Services"
+  },
+  {
+    "naicscode": 561621,
+    "naicscodedescription": "Security Systems Services (except Locksmiths)"
+  },
+  {
+    "naicscode": 561622,
+    "naicscodedescription": "Locksmiths"
+  },
+  {
+    "naicscode": 561710,
+    "naicscodedescription": "Exterminating and Pest Control Services"
+  },
+  {
+    "naicscode": 561720,
+    "naicscodedescription": "Janitorial Services"
+  },
+  {
+    "naicscode": 561730,
+    "naicscodedescription": "Landscaping Services"
+  },
+  {
+    "naicscode": 561740,
+    "naicscodedescription": "Carpet and Upholstery Cleaning Services"
+  },
+  {
+    "naicscode": 561790,
+    "naicscodedescription": "Other Services to Buildings and Dwellings"
+  },
+  {
+    "naicscode": 561910,
+    "naicscodedescription": "Packaging and Labeling Services"
+  },
+  {
+    "naicscode": 561920,
+    "naicscodedescription": "Convention and Trade Show Organizers"
+  },
+  {
+    "naicscode": 561990,
+    "naicscodedescription": "All Other Support Services"
+  },
+  {
+    "naicscode": 562111,
+    "naicscodedescription": "Solid Waste Collection"
+  },
+  {
+    "naicscode": 562112,
+    "naicscodedescription": "Hazardous Waste Collection"
+  },
+  {
+    "naicscode": 562119,
+    "naicscodedescription": "Other Waste Collection"
+  },
+  {
+    "naicscode": 562211,
+    "naicscodedescription": "Hazardous Waste Treatment and Disposal"
+  },
+  {
+    "naicscode": 562212,
+    "naicscodedescription": "Solid Waste Landfill"
+  },
+  {
+    "naicscode": 562213,
+    "naicscodedescription": "Solid Waste Combustors and Incinerators"
+  },
+  {
+    "naicscode": 562219,
+    "naicscodedescription": "Other Nonhazardous Waste Treatment and Disposal"
+  },
+  {
+    "naicscode": 562910,
+    "naicscodedescription": "Remediation Services"
+  },
+  {
+    "naicscode": 562920,
+    "naicscodedescription": "Materials Recovery Facilities"
+  },
+  {
+    "naicscode": 562991,
+    "naicscodedescription": "Septic Tank and Related Services"
+  },
+  {
+    "naicscode": 562998,
+    "naicscodedescription": "All Other Miscellaneous Waste Management Services"
+  },
+  {
+    "naicscode": 611110,
+    "naicscodedescription": "Elementary and Secondary Schools"
+  },
+  {
+    "naicscode": 611210,
+    "naicscodedescription": "Junior Colleges"
+  },
+  {
+    "naicscode": 611310,
+    "naicscodedescription": "Colleges, Universities, and Professional Schools"
+  },
+  {
+    "naicscode": 611410,
+    "naicscodedescription": "Business and Secretarial Schools"
+  },
+  {
+    "naicscode": 611420,
+    "naicscodedescription": "Computer Training"
+  },
+  {
+    "naicscode": 611430,
+    "naicscodedescription": "Professional and Management Development Training"
+  },
+  {
+    "naicscode": 611511,
+    "naicscodedescription": "Cosmetology and Barber Schools"
+  },
+  {
+    "naicscode": 611512,
+    "naicscodedescription": "Flight Training"
+  },
+  {
+    "naicscode": 611513,
+    "naicscodedescription": "Apprenticeship Training"
+  },
+  {
+    "naicscode": 611519,
+    "naicscodedescription": "Other Technical and Trade Schools"
+  },
+  {
+    "naicscode": 611610,
+    "naicscodedescription": "Fine Arts Schools"
+  },
+  {
+    "naicscode": 611620,
+    "naicscodedescription": "Sports and Recreation Instruction"
+  },
+  {
+    "naicscode": 611630,
+    "naicscodedescription": "Language Schools"
+  },
+  {
+    "naicscode": 611691,
+    "naicscodedescription": "Exam Preparation and Tutoring"
+  },
+  {
+    "naicscode": 611692,
+    "naicscodedescription": "Automobile Driving Schools"
+  },
+  {
+    "naicscode": 611699,
+    "naicscodedescription": "All Other Miscellaneous Schools and Instruction"
+  },
+  {
+    "naicscode": 611710,
+    "naicscodedescription": "Educational Support Services"
+  },
+  {
+    "naicscode": 621111,
+    "naicscodedescription":
+      "Offices of Physicians (except Mental Health Specialists)"
+  },
+  {
+    "naicscode": 621112,
+    "naicscodedescription": "Offices of Physicians, Mental Health Specialists"
+  },
+  {
+    "naicscode": 621210,
+    "naicscodedescription": "Offices of Dentists"
+  },
+  {
+    "naicscode": 621310,
+    "naicscodedescription": "Offices of Chiropractors"
+  },
+  {
+    "naicscode": 621320,
+    "naicscodedescription": "Offices of Optometrists"
+  },
+  {
+    "naicscode": 621330,
+    "naicscodedescription":
+      "Offices of Mental Health Practitioners (except Physicians)"
+  },
+  {
+    "naicscode": 621340,
+    "naicscodedescription":
+      "Offices of Physical, Occupational and Speech Therapists, and Audiologists"
+  },
+  {
+    "naicscode": 621391,
+    "naicscodedescription": "Offices of Podiatrists"
+  },
+  {
+    "naicscode": 621399,
+    "naicscodedescription":
+      "Offices of All Other Miscellaneous Health Practitioners"
+  },
+  {
+    "naicscode": 621410,
+    "naicscodedescription": "Family Planning Centers"
+  },
+  {
+    "naicscode": 621420,
+    "naicscodedescription":
+      "Outpatient Mental Health and Substance Abuse Centers"
+  },
+  {
+    "naicscode": 621491,
+    "naicscodedescription": "HMO Medical Centers"
+  },
+  {
+    "naicscode": 621492,
+    "naicscodedescription": "Kidney Dialysis Centers"
+  },
+  {
+    "naicscode": 621493,
+    "naicscodedescription":
+      "Freestanding Ambulatory Surgical and Emergency Centers"
+  },
+  {
+    "naicscode": 621498,
+    "naicscodedescription": "All Other Outpatient Care Centers"
+  },
+  {
+    "naicscode": 621511,
+    "naicscodedescription": "Medical Laboratories"
+  },
+  {
+    "naicscode": 621512,
+    "naicscodedescription": "Diagnostic Imaging Centers"
+  },
+  {
+    "naicscode": 621610,
+    "naicscodedescription": "Home Health Care Services"
+  },
+  {
+    "naicscode": 621910,
+    "naicscodedescription": "Ambulance Services"
+  },
+  {
+    "naicscode": 621991,
+    "naicscodedescription": "Blood and Organ Banks"
+  },
+  {
+    "naicscode": 621999,
+    "naicscodedescription":
+      "All Other Miscellaneous Ambulatory Health Care Services"
+  },
+  {
+    "naicscode": 622110,
+    "naicscodedescription": "General Medical and Surgical Hospitals"
+  },
+  {
+    "naicscode": 622210,
+    "naicscodedescription": "Psychiatric and Substance Abuse Hospitals"
+  },
+  {
+    "naicscode": 622310,
+    "naicscodedescription":
+      "Specialty (except Psychiatric and Substance Abuse) Hospitals"
+  },
+  {
+    "naicscode": 623110,
+    "naicscodedescription":
+      "Nursing Care Facilities (Skilled Nursing Facilities)"
+  },
+  {
+    "naicscode": 623210,
+    "naicscodedescription":
+      "Residential Intellectual and Developmental Disability Facilities"
+  },
+  {
+    "naicscode": 623220,
+    "naicscodedescription":
+      "Residential Mental Health and Substance Abuse Facilities"
+  },
+  {
+    "naicscode": 623311,
+    "naicscodedescription": "Continuing Care Retirement Communities"
+  },
+  {
+    "naicscode": 623312,
+    "naicscodedescription": "Assisted Living Facilities for the Elderly"
+  },
+  {
+    "naicscode": 623990,
+    "naicscodedescription": "Other Residential Care Facilities"
+  },
+  {
+    "naicscode": 624110,
+    "naicscodedescription": "Child and Youth Services"
+  },
+  {
+    "naicscode": 624120,
+    "naicscodedescription":
+      "Services for the Elderly and Persons with Disabilities"
+  },
+  {
+    "naicscode": 624190,
+    "naicscodedescription": "Other Individual and Family Services"
+  },
+  {
+    "naicscode": 624210,
+    "naicscodedescription": "Community Food Services"
+  },
+  {
+    "naicscode": 624221,
+    "naicscodedescription": "Temporary Shelters"
+  },
+  {
+    "naicscode": 624229,
+    "naicscodedescription": "Other Community Housing Services"
+  },
+  {
+    "naicscode": 624230,
+    "naicscodedescription": "Emergency and Other Relief Services"
+  },
+  {
+    "naicscode": 624310,
+    "naicscodedescription": "Vocational Rehabilitation Services"
+  },
+  {
+    "naicscode": 624410,
+    "naicscodedescription": "Child Day Care Services"
+  },
+  {
+    "naicscode": 711110,
+    "naicscodedescription": "Theater Companies and Dinner Theaters"
+  },
+  {
+    "naicscode": 711120,
+    "naicscodedescription": "Dance Companies"
+  },
+  {
+    "naicscode": 711130,
+    "naicscodedescription": "Musical Groups and Artists"
+  },
+  {
+    "naicscode": 711190,
+    "naicscodedescription": "Other Performing Arts Companies"
+  },
+  {
+    "naicscode": 711211,
+    "naicscodedescription": "Sports Teams and Clubs"
+  },
+  {
+    "naicscode": 711212,
+    "naicscodedescription": "Racetracks"
+  },
+  {
+    "naicscode": 711219,
+    "naicscodedescription": "Other Spectator Sports"
+  },
+  {
+    "naicscode": 711310,
+    "naicscodedescription":
+      "Promoters of Performing Arts, Sports, and Similar Events with Facilities"
+  },
+  {
+    "naicscode": 711320,
+    "naicscodedescription":
+      "Promoters of Performing Arts, Sports, and Similar Events without Facilities"
+  },
+  {
+    "naicscode": 711410,
+    "naicscodedescription":
+      "Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"
+  },
+  {
+    "naicscode": 711510,
+    "naicscodedescription": "Independent Artists, Writers, and Performers"
+  },
+  {
+    "naicscode": 712110,
+    "naicscodedescription": "Museums"
+  },
+  {
+    "naicscode": 712120,
+    "naicscodedescription": "Historical Sites"
+  },
+  {
+    "naicscode": 712130,
+    "naicscodedescription": "Zoos and Botanical Gardens"
+  },
+  {
+    "naicscode": 712190,
+    "naicscodedescription": "Nature Parks and Other Similar Institutions"
+  },
+  {
+    "naicscode": 713110,
+    "naicscodedescription": "Amusement and Theme Parks"
+  },
+  {
+    "naicscode": 713120,
+    "naicscodedescription": "Amusement Arcades"
+  },
+  {
+    "naicscode": 713210,
+    "naicscodedescription": "Casinos (except Casino Hotels)"
+  },
+  {
+    "naicscode": 713290,
+    "naicscodedescription": "Other Gambling Industries"
+  },
+  {
+    "naicscode": 713910,
+    "naicscodedescription": "Golf Courses and Country Clubs"
+  },
+  {
+    "naicscode": 713920,
+    "naicscodedescription": "Skiing Facilities"
+  },
+  {
+    "naicscode": 713930,
+    "naicscodedescription": "Marinas"
+  },
+  {
+    "naicscode": 713940,
+    "naicscodedescription": "Fitness and Recreational Sports Centers"
+  },
+  {
+    "naicscode": 713950,
+    "naicscodedescription": "Bowling Centers"
+  },
+  {
+    "naicscode": 713990,
+    "naicscodedescription": "All Other Amusement and Recreation Industries"
+  },
+  {
+    "naicscode": 721110,
+    "naicscodedescription": "Hotels (except Casino Hotels) and Motels"
+  },
+  {
+    "naicscode": 721120,
+    "naicscodedescription": "Casino Hotels"
+  },
+  {
+    "naicscode": 721191,
+    "naicscodedescription": "Bed-and-Breakfast Inns"
+  },
+  {
+    "naicscode": 721199,
+    "naicscodedescription": "All Other Traveler Accommodation"
+  },
+  {
+    "naicscode": 721211,
+    "naicscodedescription": "RV (Recreational Vehicle) Parks and Campgrounds"
+  },
+  {
+    "naicscode": 721214,
+    "naicscodedescription":
+      "Recreational and Vacation Camps (except Campgrounds)"
+  },
+  {
+    "naicscode": 721310,
+    "naicscodedescription":
+      "Rooming and Boarding Houses, Dormitories, and Workers' Camps"
+  },
+  {
+    "naicscode": 722310,
+    "naicscodedescription": "Food Service Contractors"
+  },
+  {
+    "naicscode": 722320,
+    "naicscodedescription": "Caterers"
+  },
+  {
+    "naicscode": 722330,
+    "naicscodedescription": "Mobile Food Services"
+  },
+  {
+    "naicscode": 722410,
+    "naicscodedescription": "Drinking Places (Alcoholic Beverages)"
+  },
+  {
+    "naicscode": 722511,
+    "naicscodedescription": "Full-Service Restaurants"
+  },
+  {
+    "naicscode": 722513,
+    "naicscodedescription": "Limited-Service Restaurants"
+  },
+  {
+    "naicscode": 722514,
+    "naicscodedescription": "Cafeterias, Grill Buffets, and Buffets"
+  },
+  {
+    "naicscode": 722515,
+    "naicscodedescription": "Snack and Nonalcoholic Beverage Bars"
+  },
+  {
+    "naicscode": 811111,
+    "naicscodedescription": "General Automotive Repair"
+  },
+  {
+    "naicscode": 811112,
+    "naicscodedescription": "Automotive Exhaust System Repair"
+  },
+  {
+    "naicscode": 811113,
+    "naicscodedescription": "Automotive Transmission Repair"
+  },
+  {
+    "naicscode": 811118,
+    "naicscodedescription":
+      "Other Automotive Mechanical and Electrical Repair and Maintenance"
+  },
+  {
+    "naicscode": 811121,
+    "naicscodedescription":
+      "Automotive Body, Paint, and Interior Repair and Maintenance"
+  },
+  {
+    "naicscode": 811122,
+    "naicscodedescription": "Automotive Glass Replacement Shops"
+  },
+  {
+    "naicscode": 811191,
+    "naicscodedescription": "Automotive Oil Change and Lubrication Shops"
+  },
+  {
+    "naicscode": 811192,
+    "naicscodedescription": "Car Washes"
+  },
+  {
+    "naicscode": 811198,
+    "naicscodedescription": "All Other Automotive Repair and Maintenance"
+  },
+  {
+    "naicscode": 811211,
+    "naicscodedescription": "Consumer Electronics Repair and Maintenance"
+  },
+  {
+    "naicscode": 811212,
+    "naicscodedescription": "Computer and Office Machine Repair and Maintenance"
+  },
+  {
+    "naicscode": 811213,
+    "naicscodedescription": "Communication Equipment Repair and Maintenance"
+  },
+  {
+    "naicscode": 811219,
+    "naicscodedescription":
+      "Other Electronic and Precision Equipment Repair and Maintenance"
+  },
+  {
+    "naicscode": 811310,
+    "naicscodedescription":
+      "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+  },
+  {
+    "naicscode": 811411,
+    "naicscodedescription": "Home and Garden Equipment Repair and Maintenance"
+  },
+  {
+    "naicscode": 811412,
+    "naicscodedescription": "Appliance Repair and Maintenance"
+  },
+  {
+    "naicscode": 811420,
+    "naicscodedescription": "Reupholstery and Furniture Repair"
+  },
+  {
+    "naicscode": 811430,
+    "naicscodedescription": "Footwear and Leather Goods Repair"
+  },
+  {
+    "naicscode": 811490,
+    "naicscodedescription":
+      "Other Personal and Household Goods Repair and Maintenance"
+  },
+  {
+    "naicscode": 812111,
+    "naicscodedescription": "Barber Shops"
+  },
+  {
+    "naicscode": 812112,
+    "naicscodedescription": "Beauty Salons"
+  },
+  {
+    "naicscode": 812113,
+    "naicscodedescription": "Nail Salons"
+  },
+  {
+    "naicscode": 812191,
+    "naicscodedescription": "Diet and Weight Reducing Centers"
+  },
+  {
+    "naicscode": 812199,
+    "naicscodedescription": "Other Personal Care Services"
+  },
+  {
+    "naicscode": 812210,
+    "naicscodedescription": "Funeral Homes and Funeral Services"
+  },
+  {
+    "naicscode": 812220,
+    "naicscodedescription": "Cemeteries and Crematories"
+  },
+  {
+    "naicscode": 812310,
+    "naicscodedescription": "Coin-Operated Laundries and Drycleaners"
+  },
+  {
+    "naicscode": 812320,
+    "naicscodedescription":
+      "Drycleaning and Laundry Services (except Coin-Operated)"
+  },
+  {
+    "naicscode": 812331,
+    "naicscodedescription": "Linen Supply"
+  },
+  {
+    "naicscode": 812332,
+    "naicscodedescription": "Industrial Launderers"
+  },
+  {
+    "naicscode": 812910,
+    "naicscodedescription": "Pet Care (except Veterinary) Services"
+  },
+  {
+    "naicscode": 812921,
+    "naicscodedescription": "Photofinishing Laboratories (except One-Hour)"
+  },
+  {
+    "naicscode": 812922,
+    "naicscodedescription": "One-Hour Photofinishing"
+  },
+  {
+    "naicscode": 812930,
+    "naicscodedescription": "Parking Lots and Garages"
+  },
+  {
+    "naicscode": 812990,
+    "naicscodedescription": "All Other Personal Services"
+  },
+  {
+    "naicscode": 813110,
+    "naicscodedescription": "Religious Organizations"
+  },
+  {
+    "naicscode": 813211,
+    "naicscodedescription": "Grantmaking Foundations"
+  },
+  {
+    "naicscode": 813212,
+    "naicscodedescription": "Voluntary Health Organizations"
+  },
+  {
+    "naicscode": 813219,
+    "naicscodedescription": "Other Grantmaking and Giving Services"
+  },
+  {
+    "naicscode": 813311,
+    "naicscodedescription": "Human Rights Organizations"
+  },
+  {
+    "naicscode": 813312,
+    "naicscodedescription":
+      "Environment, Conservation and Wildlife Organizations"
+  },
+  {
+    "naicscode": 813319,
+    "naicscodedescription": "Other Social Advocacy Organizations"
+  },
+  {
+    "naicscode": 813410,
+    "naicscodedescription": "Civic and Social Organizations"
+  },
+  {
+    "naicscode": 813910,
+    "naicscodedescription": "Business Associations"
+  },
+  {
+    "naicscode": 813920,
+    "naicscodedescription": "Professional Organizations"
+  },
+  {
+    "naicscode": 813930,
+    "naicscodedescription": "Labor Unions and Similar Labor Organizations"
+  },
+  {
+    "naicscode": 813940,
+    "naicscodedescription": "Political Organizations"
+  },
+  {
+    "naicscode": 813990,
+    "naicscodedescription":
+      "Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)"
+  },
+  {
+    "naicscode": 814110,
+    "naicscodedescription": "Private Households"
+  },
+  {
+    "naicscode": 921110,
+    "naicscodedescription": "Executive Offices"
+  },
+  {
+    "naicscode": 921120,
+    "naicscodedescription": "Legislative Bodies"
+  },
+  {
+    "naicscode": 921130,
+    "naicscodedescription": "Public Finance Activities"
+  },
+  {
+    "naicscode": 921140,
+    "naicscodedescription": "Executive and Legislative Offices, Combined"
+  },
+  {
+    "naicscode": 921150,
+    "naicscodedescription":
+      "American Indian and Alaska Native Tribal Governments"
+  },
+  {
+    "naicscode": 921190,
+    "naicscodedescription": "Other General Government Suppor"
+  },
+  {
+    "naicscode": 922110,
+    "naicscodedescription": "Courts"
+  },
+  {
+    "naicscode": 922120,
+    "naicscodedescription": "Police Protection"
+  },
+  {
+    "naicscode": 922130,
+    "naicscodedescription": "Legal Counsel and Prosecution"
+  },
+  {
+    "naicscode": 922140,
+    "naicscodedescription": "Correctional Institutions"
+  },
+  {
+    "naicscode": 922150,
+    "naicscodedescription": "Parole Offices and Probation Offices"
+  },
+  {
+    "naicscode": 922160,
+    "naicscodedescription": "Fire Protection"
+  },
+  {
+    "naicscode": 922190,
+    "naicscodedescription": "Other Justice, Public Order, and Safety Activities"
+  },
+  {
+    "naicscode": 923110,
+    "naicscodedescription": "Administration of Education Programs"
+  },
+  {
+    "naicscode": 923120,
+    "naicscodedescription": "Administration of Public Health Programs"
+  },
+  {
+    "naicscode": 923130,
+    "naicscodedescription":
+      "Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)"
+  },
+  {
+    "naicscode": 923140,
+    "naicscodedescription": "Administration of Veterans' Affairs"
+  },
+  {
+    "naicscode": 924110,
+    "naicscodedescription":
+      "Administration of Air and Water Resource and Solid Waste Management Programs"
+  },
+  {
+    "naicscode": 924120,
+    "naicscodedescription": "Administration of Conservation Programs"
+  },
+  {
+    "naicscode": 925110,
+    "naicscodedescription": "Administration of Housing Programs"
+  },
+  {
+    "naicscode": 925120,
+    "naicscodedescription":
+      "Administration of Urban Planning and Community and Rural Developmen"
+  },
+  {
+    "naicscode": 926110,
+    "naicscodedescription": "Administration of General Economic Programs"
+  },
+  {
+    "naicscode": 926120,
+    "naicscodedescription":
+      "Regulation and Administration of Transportation Programs"
+  },
+  {
+    "naicscode": 926130,
+    "naicscodedescription":
+      "Regulation and Administration of Communications, Electric, Gas, and Other Utilities"
+  },
+  {
+    "naicscode": 926140,
+    "naicscodedescription":
+      "Regulation of Agricultural Marketing and Commodities"
+  },
+  {
+    "naicscode": 926150,
+    "naicscodedescription":
+      "Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors"
+  },
+  {
+    "naicscode": 927110,
+    "naicscodedescription": "Space Research and Technology"
+  },
+  {
+    "naicscode": 928110,
+    "naicscodedescription": "National Security"
+  },
+  {
+    "naicscode": 928120,
+    "naicscodedescription": "International Affairs"
+  }
+]

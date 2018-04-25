@@ -1,0 +1,73 @@
+/** Stylus Styles */
+
+@import '../../node_modules/vuetify/src/stylus/settings/_colors'
+ 
+$theme := {
+  primary: #000
+  accent: #333334
+  secondary: #696c61
+  info: $blue.lighten-1
+  warning: $amber.darken-2
+  error: $red.accent-4
+  success: $green.lighten-2
+}
+
+@import '../../node_modules/vuetify/src/stylus/main'
+
+.input-group--select {
+  margin-top: 25px;
+}
+
+.custom-loader {
+  animation: loader 1s infinite;
+  display: flex;
+}
+.bar-title {
+  font-size: 15px;
+}
+@-moz-keyframes loader {
+  from {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.list__tile--active {
+    background-color: #fff;
+}
+.list__tile--active > .list__tile__action > .icon {
+  color: #326751;
+}
+.list__tile--active:hover {
+    background-color: #fff;
+}
+@-webkit-keyframes loader {
+  from {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@-o-keyframes loader {
+  from {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes loader {
+  from {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+$navigation-drawer-width := 180px
+
+

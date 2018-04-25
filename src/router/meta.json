@@ -1,0 +1,158 @@
+{
+  "/contractors": {
+    "h1": "Defense Contractors Directory",
+    "title": "Defense Contractors Directory",
+    "description": "Defense contractors directory",
+    "keywords": "contractors, contractors directory, directory, defense contractors",
+    "requiresAuth": true
+  },
+  "/contracts": {
+    "h1": "Department of Defense Contract History",
+    "title": "Department of Defense Contractors History",
+    "description": "Defense contracts history",
+    "keywords": "contracts, contracts history, history, defense contracts",
+    "requiresAuth": true
+  },
+   "/signup":{
+    "h1": "User - Signup",
+    "title": "User - Signup",
+    "requiresAuth": false,
+    "authPage": true
+  },
+  "/signin":{
+    "h1": "User - Signin",
+    "title": "User - Signin",
+    "requiresAuth": false,
+    "authPage": true
+  },
+  "/forgot":{
+    "h1": "User - Forgot",
+    "title": "User - Forgot",
+    "requiresAuth": false,
+    "authPage": true
+  },
+  "/groups": {
+    "h1": "Groups",
+    "title": "Groups",
+    "description": "Search active Department of Defense solicitations by utilizing the Active Contract Opportunities Module. Use the functionality n this module to stratergize, connect, and colaborate with other contractors to pursue specefic contract opportunities",
+    "keywords": "opportunities, defense opportunities, department of defense, defense",
+    "requiresAuth": true
+  },
+  "/groups/:id": {
+    "h1": "Group Page",
+    "title": "Groups Page",
+    "description": "",
+    "keywords": "",
+    "requiresAuth": true
+  },
+  "/opportunities": {
+    "h1": "Federal Active Opportunities",
+    "title": "Federal Active Opportunities",
+    "description": "Search active Department of Defense solicitations by utilizing the Active Contract Opportunities Module. Use the functionality n this module to stratergize, connect, and colaborate with other contractors to pursue specefic contract opportunities",
+    "keywords": "opportunities, defense opportunities, department of defense, defense",
+    "requiresAuth": true
+  },
+  "/opportunities/cancelled": {
+    "h1": "Federal Award/Cancelled Opportunities",
+    "title": "Federal Award/Cancelled Opportunities",
+    "description": "Search active Department of Defense solicitations by utilizing the Active Contract Opportunities Module. Use the functionality n this module to stratergize, connect, and colaborate with other contractors to pursue specefic contract opportunities",
+    "keywords": "opportunities, defense opportunities, department of defense, defense",
+    "requiresAuth": true
+  },
+  "/favorites": {
+    "h1": "Favorites Items",
+    "title": "Favorites Items",
+    "description": "Favorites Items",
+    "keywords": "favorites, defense opportunities, department of defense, defense",
+    "requiresAuth": true
+  },
+  "/events": {
+    "h1": "Defense Events",
+    "title": "Defense Events",
+    "description": "Defense Events",
+    "keywords": "events, defense events, department of defense, defense",
+    "requiresAuth": true
+  },
+  "/tracking": {
+    "h1": "Tracked Items",
+    "title": "Tracked Items",
+    "description": "Tracked Items",
+    "keywords": "tracking, defense tracks, department of defense, defense",
+    "requiresAuth": true
+  },
+  "/admin/settings":{
+    "h1": "Admin - Settings",
+    "title": "Admin - Settings",
+    "requiresAuth": true
+  },
+  "/admin/settings/appearance":{
+    "h1": "Admin - Appearance Settings",
+    "title": "Admin - Appearance Settings",
+    "requiresAuth": true
+  },
+  "/admin/settings/requests":{
+    "h1": "Admin - Requests Settings",
+    "title": "Admin - Requests Settings",
+    "requiresAuth": true
+  },
+  "/admin/settings/pages":{
+    "h1": "Admin - Page Settings",
+    "title": "Admin - Page Settings",
+    "requiresAuth": true
+  },
+  "/": {
+    "h1": "Exchange",
+    "title": "Exchange",
+    "requiresAuth": false
+  },
+  "/user/profile":{
+    "h1": "User - Profile",
+    "title": "User - Profile",
+    "requiresAuth": true
+  },
+  "/contract-history": {
+    "h1": "Contract history",
+    "title": "Contract history",
+    "requiresAuth": true
+  },
+  "/user/feed":{
+    "h1": "Newsfeed",
+    "title": "Newsfeed",
+    "requiresAuth": true
+  },
+  "/questionnaire":{
+    "h1": "Company Questionnaire",
+    "title": "Company Questionnaire",
+    "requiresAuth": true
+  },
+  "/company/:name":{
+    "h1": "Company Info",
+    "title": "Company Info",
+    "requiresAuth": true
+  },
+  "/admin/settings/home":{
+    "h1": "Admin - Settings Home",
+    "title": "Admin - Settings Home",
+    "requiresAuth": true
+  },  
+  "/admin/settings/users":{
+    "h1": "Admin - Settings User",
+    "title": "Admin - Settings User",
+    "requiresAuth": true
+  },
+  "/admin/settings/priviledges":{
+    "h1": "Admin - Settings Priviledges",
+    "title": "Admin - Settings Priviledges",
+    "requiresAuth": true
+  },
+  "/admin/settings/support":{
+    "h1": "Admin - Settings Support",
+    "title": "Admin - Settings Support",
+    "requiresAuth": true
+  },
+  "/admin/settings/gareport":{
+    "h1": "Admin - Settings Gareport",
+    "title": "Admin - Settings Gareport",
+    "requiresAuth": true
+  }
+}

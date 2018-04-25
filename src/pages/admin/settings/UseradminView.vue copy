@@ -1,0 +1,215 @@
+<template>
+  <v-container fluid>
+    <v-layout row>
+      <v-flex xs11 order-md2 order-xs2>
+        <v-card fill-height height="750px">
+          <v-toolbar class="white elevation-0">
+            <v-toolbar-title class="">
+              User Settings
+            </v-toolbar-title>
+          </v-toolbar>
+          <v-card-text>
+            Modify's User               </v-card-text>
+          <v-flex xs12 class="mt-3">
+            <v-card>
+              <v-data-table
+                v-bind:headers="headers"
+                v-bind:items="allUsers"
+                v-bind:search="search"
+                v-model="selected"
+                item-key="name"
+                select-all
+                v-bind:pagination.sync="pagination"
+                hide-actions
+                class="elevation-1"
+              >
+                <template slot="headerCell" scope="props">
+                  <v-tooltip bottom>
+          <span slot="activator">
+            {{ props.header.text }}
+          </span>
+                    <span>
+            {{ props.header.text }}
+          </span>
+                  </v-tooltip>
+                </template>
+                <template slot="items" scope="props">
+                  <td>
+                    <v-checkbox
+                      primary
+                      hide-details
+                      v-model="props.selected"
+                    ></v-checkbox>
+                  </td>
+                  <td justify-space-around>
+                    <v-icon small color="green lighten-1" v-if=" props.item.status == 'online' ">mdi-circle</v-icon>
+                    <v-icon small color="black lighten-1" v-if=" props.item.status == 'offline' ">mdi-circle</v-icon>
+
+                  </td>
+                  <td class="text-xs-left">
+                    <div class="avatar ml-2" style="height: 24px; width: 24px;">
+                    <img :src="props.item.avatar" :alt="returnName(props.item)"></div>
+                    {{ returnName(props.item) }}</td>
+                  <td class="text-xs-left">{{ props.item.email }}</td>
+                  <td class="text-xs-left"  v-for="(role,index) in roles" v-if="index==props.item.role">{{ role }}</td>
+
+                  <td class="text-xs-left">{{ props.item.createdAt |formatDate}}</td>
+                  <td class="text-xs-left">{{ props.item.lastlogin |formatDateTime}}</td>
+                                   <td class="text-xs-right">
+                    <v-menu bottom left>
+                      <v-btn icon slot="activator" class="darken-1" flat="flat">
+                        <v-icon>menu</v-icon>
+                      </v-btn>
+                      <v-list>
+                        <v-list-tile v-for="item in menuitems" :key="item.title" @click="">
+                          <v-list-tile-title>{{ item.title }}</v-list-tile-title>
+                        </v-list-tile>
+                      </v-list>
+                    </v-menu>
+                  </td>
+
+                </template>
+              </v-data-table>
+              <div class="text-xs-center pt-2">
+                <v-pagination v-model="pagination.page" :length="pages"></v-pagination>
+              </div>
+            </v-card>
+          </v-flex>
+        </v-card>
+
+      </v-flex>
+      <v-flex xs2 order-md1 order-xs3 class="mr-3 ml-0">
+        <AdminSideBarMenu />
+      </v-flex>
+    </v-layout>
+  </v-container>
+</template>
+<script>
+  import AdminSideBarMenu from './Components/AdminSideBar.vue'
+  import moment from 'moment'
+  import Vue from 'vue'
+  Vue.filter('formatDate', function (value) {
+    if (value) {
+      return moment(String(value)).format('MM/DD/YYYY')
+    }
+  })
+  Vue.filter('formatDateTime', function (value) {
+    if (value) {
+      return moment(String(value)).format('MMM DD, YYYY')
+    }
+  })
+  export default {
+    components: {
+      AdminSideBarMenu
+    },
+    computed: {
+      users () {
+        return this.$store.getters.fetchUsers
+      },
+      loading () {
+        return this.$store.getters.getLoading
+      },
+      error () {
+        return this.$store.getters.getError
+      },
+      updateProcess () {
+        return this.$store.getters.getProcess === 'Settings Saved'
+      },
+      process () {
+        return this.$store.getters.getProcess
+      },
+      allUsers () {
+        console.log(this.users, 'hshshsh')
+        return this.users
+      },
+      pages () {
+        return this.pagination.rowsPerPage ? Math.ceil(this.items.length / this.pagination.rowsPerPage) : 0
+      }
+    },
+    data () {
+      return {
+        selected: [],
+        search: '',
+        pagination: {rowsPerPage: 10},
+        roles: {
+          '1': 'Client Admin',
+          '2': 'Business Admin',
+          '3': 'Staff',
+          '4': 'User',
+          '5': 'Disabled'
+        },
+        menuitems: [
+          { title: 'Send User Verification Email' },
+          { title: 'set a User\'s password' },
+          { title: 'Update profile' },
+          { title: 'Group Membership' },
+          { title: 'Delete User' },
+          { title: 'Disable/Enable User' }
+        ],
+        headers: [
+          {
+            text: '',
+            value: 'status',
+            align: 'right',
+            sortable: false
+          },
+          {
+            text: 'Name',
+            value: 'firstname',
+            align: 'left',
+            sortable: true
+          },
+          {
+            text: 'Email',
+            value: 'email',
+            align: 'left',
+            sortable: true
+          },
+          {
+            text: 'Role',
+            value: 'role',
+            align: 'left',
+            sortable: false
+          },
+          {
+            text: 'Created',
+            value: 'created',
+            align: 'left',
+            sortable: false
+          },
+          {
+            text: 'Last Login',
+            align: 'left',
+            sortable: false,
+            value: 'posteddate'
+          },
+          {
+            text: '',
+            align: 'center',
+            sortable: false,
+            value: 'posteddate'
+          }
+        ],
+        items: []
+      }
+    },
+    methods: {
+      returnName: function (key) {
+        return key.firstname + ' ' + key.lastname
+      },
+      onDismiss () {
+        this.$store.dispatch('setError', null)
+        this.$store.dispatch('setProcess', 'null')
+      },
+      triggerDrawer () {
+        this.drawer = !this.drawer
+      }
+    }
+
+  }
+</script>
+<style>
+  .navigation-drawer {
+    position: fixed;
+  }
+</style>
